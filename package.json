@@ -1,10 +1,9 @@
 {
   "name": "material-icons-autocomplete",
   "main": "./lib/material-icons-autocomplete",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Snippet Package for Google's Material Icons",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "material-icons-autocomplete:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
