@@ -1,0 +1,18 @@
+{
+  "name": "material-icons-autocomplete",
+  "main": "./lib/material-icons-autocomplete",
+  "version": "0.2.2",
+  "description": "Snippet Package for Google's Material Icons",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "material-icons-autocomplete:toggle"
+  },
+  "repository": "https://github.com/kimjs3550/material-icons-autocomplete",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

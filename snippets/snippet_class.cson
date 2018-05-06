@@ -1,0 +1,34 @@
+".text.html.basic .meta.tag.inline.i.html .meta.attribute-with-value.class.html .string.quoted.single.html":
+  #icon size class
+    "icon size 18px":
+            body: "md-18"
+            prefix: "md-18"
+
+    "icon size 24px":
+            body: "md-24"
+            prefix: "md-24"
+
+    "icon size 36px":
+            body: "md-36"
+            prefix: "md-36"
+
+    "icon size 48px":
+            body: "md-48"
+            prefix: "md-48"
+
+  #icon coloring class
+    "dark icon theme":
+            body: "md-dark"
+            prefix: "md-dark"
+            description: "dark icon theme which work well on ligh background"
+
+    "light icon theme":
+            body: "md-light"
+            prefix: "md-light"
+            description: "light icon theme which work well on dark background"
+
+    "disabled icon":
+            body: "md-inactive"
+            prefix: "md-inactive"
+            description: "you have to use this class with md-light or md-dark"
+              

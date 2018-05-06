@@ -1,0 +1,5486 @@
+".text.html":
+    "3d-rotation":
+            body: "<i class='material-icons' >3d_rotation</i>"
+            description: "type 3d-rotation material icon"
+            prefix: "icon-3d-rotation"
+
+
+    "ac-unit":
+            body: "<i class='material-icons' >ac_unit</i>"
+            description: "type ac-unit material icon"
+            prefix: "icon-ac-unit"
+
+
+    "access-alarm":
+            body: "<i class='material-icons' >access_alarm</i>"
+            description: "type access-alarm material icon"
+            prefix: "icon-access-alarm"
+
+
+    "access-alarms":
+            body: "<i class='material-icons' >access_alarms</i>"
+            description: "type access-alarms material icon"
+            prefix: "icon-access-alarms"
+
+
+    "access-time":
+            body: "<i class='material-icons' >access_time</i>"
+            description: "type access-time material icon"
+            prefix: "icon-access-time"
+
+
+    "accessibility":
+            body: "<i class='material-icons' >accessibility</i>"
+            description: "type accessibility material icon"
+            prefix: "icon-accessibility"
+
+
+    "accessible":
+            body: "<i class='material-icons' >accessible</i>"
+            description: "type accessible material icon"
+            prefix: "icon-accessible"
+
+
+    "account-balance":
+            body: "<i class='material-icons' >account_balance</i>"
+            description: "type account-balance material icon"
+            prefix: "icon-account-balance"
+
+
+    "account-balance-wallet":
+            body: "<i class='material-icons' >account_balance_wallet</i>"
+            description: "type account-balance-wallet material icon"
+            prefix: "icon-account-balance-wallet"
+
+
+    "account-box":
+            body: "<i class='material-icons' >account_box</i>"
+            description: "type account-box material icon"
+            prefix: "icon-account-box"
+
+
+    "account-circle":
+            body: "<i class='material-icons' >account_circle</i>"
+            description: "type account-circle material icon"
+            prefix: "icon-account-circle"
+
+
+    "adb":
+            body: "<i class='material-icons' >adb</i>"
+            description: "type adb material icon"
+            prefix: "icon-adb"
+
+
+    "add":
+            body: "<i class='material-icons' >add</i>"
+            description: "type add material icon"
+            prefix: "icon-add"
+
+
+    "add-a-photo":
+            body: "<i class='material-icons' >add_a_photo</i>"
+            description: "type add-a-photo material icon"
+            prefix: "icon-add-a-photo"
+
+
+    "add-alarm":
+            body: "<i class='material-icons' >add_alarm</i>"
+            description: "type add-alarm material icon"
+            prefix: "icon-add-alarm"
+
+
+    "add-alert":
+            body: "<i class='material-icons' >add_alert</i>"
+            description: "type add-alert material icon"
+            prefix: "icon-add-alert"
+
+
+    "add-box":
+            body: "<i class='material-icons' >add_box</i>"
+            description: "type add-box material icon"
+            prefix: "icon-add-box"
+
+
+    "add-circle":
+            body: "<i class='material-icons' >add_circle</i>"
+            description: "type add-circle material icon"
+            prefix: "icon-add-circle"
+
+
+    "add-circle-outline":
+            body: "<i class='material-icons' >add_circle_outline</i>"
+            description: "type add-circle-outline material icon"
+            prefix: "icon-add-circle-outline"
+
+
+    "add-location":
+            body: "<i class='material-icons' >add_location</i>"
+            description: "type add-location material icon"
+            prefix: "icon-add-location"
+
+
+    "add-shopping-cart":
+            body: "<i class='material-icons' >add_shopping_cart</i>"
+            description: "type add-shopping-cart material icon"
+            prefix: "icon-add-shopping-cart"
+
+
+    "add-to-photos":
+            body: "<i class='material-icons' >add_to_photos</i>"
+            description: "type add-to-photos material icon"
+            prefix: "icon-add-to-photos"
+
+
+    "add-to-queue":
+            body: "<i class='material-icons' >add_to_queue</i>"
+            description: "type add-to-queue material icon"
+            prefix: "icon-add-to-queue"
+
+
+    "adjust":
+            body: "<i class='material-icons' >adjust</i>"
+            description: "type adjust material icon"
+            prefix: "icon-adjust"
+
+
+    "airline-seat-flat":
+            body: "<i class='material-icons' >airline_seat_flat</i>"
+            description: "type airline-seat-flat material icon"
+            prefix: "icon-airline-seat-flat"
+
+
+    "airline-seat-flat-angled":
+            body: "<i class='material-icons' >airline_seat_flat_angled</i>"
+            description: "type airline-seat-flat-angled material icon"
+            prefix: "icon-airline-seat-flat-angled"
+
+
+    "airline-seat-individual-suite":
+            body: "<i class='material-icons' >airline_seat_individual_suite</i>"
+            description: "type airline-seat-individual-suite material icon"
+            prefix: "icon-airline-seat-individual-suite"
+
+
+    "airline-seat-legroom-extra":
+            body: "<i class='material-icons' >airline_seat_legroom_extra</i>"
+            description: "type airline-seat-legroom-extra material icon"
+            prefix: "icon-airline-seat-legroom-extra"
+
+
+    "airline-seat-legroom-normal":
+            body: "<i class='material-icons' >airline_seat_legroom_normal</i>"
+            description: "type airline-seat-legroom-normal material icon"
+            prefix: "icon-airline-seat-legroom-normal"
+
+
+    "airline-seat-legroom-reduced":
+            body: "<i class='material-icons' >airline_seat_legroom_reduced</i>"
+            description: "type airline-seat-legroom-reduced material icon"
+            prefix: "icon-airline-seat-legroom-reduced"
+
+
+    "airline-seat-recline-extra":
+            body: "<i class='material-icons' >airline_seat_recline_extra</i>"
+            description: "type airline-seat-recline-extra material icon"
+            prefix: "icon-airline-seat-recline-extra"
+
+
+    "airline-seat-recline-normal":
+            body: "<i class='material-icons' >airline_seat_recline_normal</i>"
+            description: "type airline-seat-recline-normal material icon"
+            prefix: "icon-airline-seat-recline-normal"
+
+
+    "airplanemode-active":
+            body: "<i class='material-icons' >airplanemode_active</i>"
+            description: "type airplanemode-active material icon"
+            prefix: "icon-airplanemode-active"
+
+
+    "airplanemode-inactive":
+            body: "<i class='material-icons' >airplanemode_inactive</i>"
+            description: "type airplanemode-inactive material icon"
+            prefix: "icon-airplanemode-inactive"
+
+
+    "airplay":
+            body: "<i class='material-icons' >airplay</i>"
+            description: "type airplay material icon"
+            prefix: "icon-airplay"
+
+
+    "airport-shuttle":
+            body: "<i class='material-icons' >airport_shuttle</i>"
+            description: "type airport-shuttle material icon"
+            prefix: "icon-airport-shuttle"
+
+
+    "alarm":
+            body: "<i class='material-icons' >alarm</i>"
+            description: "type alarm material icon"
+            prefix: "icon-alarm"
+
+
+    "alarm-add":
+            body: "<i class='material-icons' >alarm_add</i>"
+            description: "type alarm-add material icon"
+            prefix: "icon-alarm-add"
+
+
+    "alarm-off":
+            body: "<i class='material-icons' >alarm_off</i>"
+            description: "type alarm-off material icon"
+            prefix: "icon-alarm-off"
+
+
+    "alarm-on":
+            body: "<i class='material-icons' >alarm_on</i>"
+            description: "type alarm-on material icon"
+            prefix: "icon-alarm-on"
+
+
+    "album":
+            body: "<i class='material-icons' >album</i>"
+            description: "type album material icon"
+            prefix: "icon-album"
+
+
+    "all-inclusive":
+            body: "<i class='material-icons' >all_inclusive</i>"
+            description: "type all-inclusive material icon"
+            prefix: "icon-all-inclusive"
+
+
+    "all-out":
+            body: "<i class='material-icons' >all_out</i>"
+            description: "type all-out material icon"
+            prefix: "icon-all-out"
+
+
+    "android":
+            body: "<i class='material-icons' >android</i>"
+            description: "type android material icon"
+            prefix: "icon-android"
+
+
+    "announcement":
+            body: "<i class='material-icons' >announcement</i>"
+            description: "type announcement material icon"
+            prefix: "icon-announcement"
+
+
+    "apps":
+            body: "<i class='material-icons' >apps</i>"
+            description: "type apps material icon"
+            prefix: "icon-apps"
+
+
+    "archive":
+            body: "<i class='material-icons' >archive</i>"
+            description: "type archive material icon"
+            prefix: "icon-archive"
+
+
+    "arrow-back":
+            body: "<i class='material-icons' >arrow_back</i>"
+            description: "type arrow-back material icon"
+            prefix: "icon-arrow-back"
+
+
+    "arrow-downward":
+            body: "<i class='material-icons' >arrow_downward</i>"
+            description: "type arrow-downward material icon"
+            prefix: "icon-arrow-downward"
+
+
+    "arrow-drop-down":
+            body: "<i class='material-icons' >arrow_drop_down</i>"
+            description: "type arrow-drop-down material icon"
+            prefix: "icon-arrow-drop-down"
+
+
+    "arrow-drop-down-circle":
+            body: "<i class='material-icons' >arrow_drop_down_circle</i>"
+            description: "type arrow-drop-down-circle material icon"
+            prefix: "icon-arrow-drop-down-circle"
+
+
+    "arrow-drop-up":
+            body: "<i class='material-icons' >arrow_drop_up</i>"
+            description: "type arrow-drop-up material icon"
+            prefix: "icon-arrow-drop-up"
+
+
+    "arrow-forward":
+            body: "<i class='material-icons' >arrow_forward</i>"
+            description: "type arrow-forward material icon"
+            prefix: "icon-arrow-forward"
+
+
+    "arrow-upward":
+            body: "<i class='material-icons' >arrow_upward</i>"
+            description: "type arrow-upward material icon"
+            prefix: "icon-arrow-upward"
+
+
+    "art-track":
+            body: "<i class='material-icons' >art_track</i>"
+            description: "type art-track material icon"
+            prefix: "icon-art-track"
+
+
+    "aspect-ratio":
+            body: "<i class='material-icons' >aspect_ratio</i>"
+            description: "type aspect-ratio material icon"
+            prefix: "icon-aspect-ratio"
+
+
+    "assessment":
+            body: "<i class='material-icons' >assessment</i>"
+            description: "type assessment material icon"
+            prefix: "icon-assessment"
+
+
+    "assignment":
+            body: "<i class='material-icons' >assignment</i>"
+            description: "type assignment material icon"
+            prefix: "icon-assignment"
+
+
+    "assignment-ind":
+            body: "<i class='material-icons' >assignment_ind</i>"
+            description: "type assignment-ind material icon"
+            prefix: "icon-assignment-ind"
+
+
+    "assignment-late":
+            body: "<i class='material-icons' >assignment_late</i>"
+            description: "type assignment-late material icon"
+            prefix: "icon-assignment-late"
+
+
+    "assignment-return":
+            body: "<i class='material-icons' >assignment_return</i>"
+            description: "type assignment-return material icon"
+            prefix: "icon-assignment-return"
+
+
+    "assignment-returned":
+            body: "<i class='material-icons' >assignment_returned</i>"
+            description: "type assignment-returned material icon"
+            prefix: "icon-assignment-returned"
+
+
+    "assignment-turned-in":
+            body: "<i class='material-icons' >assignment_turned_in</i>"
+            description: "type assignment-turned-in material icon"
+            prefix: "icon-assignment-turned-in"
+
+
+    "assistant":
+            body: "<i class='material-icons' >assistant</i>"
+            description: "type assistant material icon"
+            prefix: "icon-assistant"
+
+
+    "assistant-photo":
+            body: "<i class='material-icons' >assistant_photo</i>"
+            description: "type assistant-photo material icon"
+            prefix: "icon-assistant-photo"
+
+
+    "attach-file":
+            body: "<i class='material-icons' >attach_file</i>"
+            description: "type attach-file material icon"
+            prefix: "icon-attach-file"
+
+
+    "attach-money":
+            body: "<i class='material-icons' >attach_money</i>"
+            description: "type attach-money material icon"
+            prefix: "icon-attach-money"
+
+
+    "attachment":
+            body: "<i class='material-icons' >attachment</i>"
+            description: "type attachment material icon"
+            prefix: "icon-attachment"
+
+
+    "audiotrack":
+            body: "<i class='material-icons' >audiotrack</i>"
+            description: "type audiotrack material icon"
+            prefix: "icon-audiotrack"
+
+
+    "autorenew":
+            body: "<i class='material-icons' >autorenew</i>"
+            description: "type autorenew material icon"
+            prefix: "icon-autorenew"
+
+
+    "av-timer":
+            body: "<i class='material-icons' >av_timer</i>"
+            description: "type av-timer material icon"
+            prefix: "icon-av-timer"
+
+
+    "backspace":
+            body: "<i class='material-icons' >backspace</i>"
+            description: "type backspace material icon"
+            prefix: "icon-backspace"
+
+
+    "backup":
+            body: "<i class='material-icons' >backup</i>"
+            description: "type backup material icon"
+            prefix: "icon-backup"
+
+
+    "battery-alert":
+            body: "<i class='material-icons' >battery_alert</i>"
+            description: "type battery-alert material icon"
+            prefix: "icon-battery-alert"
+
+
+    "battery-charging-full":
+            body: "<i class='material-icons' >battery_charging_full</i>"
+            description: "type battery-charging-full material icon"
+            prefix: "icon-battery-charging-full"
+
+
+    "battery-full":
+            body: "<i class='material-icons' >battery_full</i>"
+            description: "type battery-full material icon"
+            prefix: "icon-battery-full"
+
+
+    "battery-std":
+            body: "<i class='material-icons' >battery_std</i>"
+            description: "type battery-std material icon"
+            prefix: "icon-battery-std"
+
+
+    "battery-unknown":
+            body: "<i class='material-icons' >battery_unknown</i>"
+            description: "type battery-unknown material icon"
+            prefix: "icon-battery-unknown"
+
+
+    "beach-access":
+            body: "<i class='material-icons' >beach_access</i>"
+            description: "type beach-access material icon"
+            prefix: "icon-beach-access"
+
+
+    "beenhere":
+            body: "<i class='material-icons' >beenhere</i>"
+            description: "type beenhere material icon"
+            prefix: "icon-beenhere"
+
+
+    "block":
+            body: "<i class='material-icons' >block</i>"
+            description: "type block material icon"
+            prefix: "icon-block"
+
+
+    "bluetooth":
+            body: "<i class='material-icons' >bluetooth</i>"
+            description: "type bluetooth material icon"
+            prefix: "icon-bluetooth"
+
+
+    "bluetooth-audio":
+            body: "<i class='material-icons' >bluetooth_audio</i>"
+            description: "type bluetooth-audio material icon"
+            prefix: "icon-bluetooth-audio"
+
+
+    "bluetooth-connected":
+            body: "<i class='material-icons' >bluetooth_connected</i>"
+            description: "type bluetooth-connected material icon"
+            prefix: "icon-bluetooth-connected"
+
+
+    "bluetooth-disabled":
+            body: "<i class='material-icons' >bluetooth_disabled</i>"
+            description: "type bluetooth-disabled material icon"
+            prefix: "icon-bluetooth-disabled"
+
+
+    "bluetooth-searching":
+            body: "<i class='material-icons' >bluetooth_searching</i>"
+            description: "type bluetooth-searching material icon"
+            prefix: "icon-bluetooth-searching"
+
+
+    "blur-circular":
+            body: "<i class='material-icons' >blur_circular</i>"
+            description: "type blur-circular material icon"
+            prefix: "icon-blur-circular"
+
+
+    "blur-linear":
+            body: "<i class='material-icons' >blur_linear</i>"
+            description: "type blur-linear material icon"
+            prefix: "icon-blur-linear"
+
+
+    "blur-off":
+            body: "<i class='material-icons' >blur_off</i>"
+            description: "type blur-off material icon"
+            prefix: "icon-blur-off"
+
+
+    "blur-on":
+            body: "<i class='material-icons' >blur_on</i>"
+            description: "type blur-on material icon"
+            prefix: "icon-blur-on"
+
+
+    "book":
+            body: "<i class='material-icons' >book</i>"
+            description: "type book material icon"
+            prefix: "icon-book"
+
+
+    "bookmark":
+            body: "<i class='material-icons' >bookmark</i>"
+            description: "type bookmark material icon"
+            prefix: "icon-bookmark"
+
+
+    "bookmark-border":
+            body: "<i class='material-icons' >bookmark_border</i>"
+            description: "type bookmark-border material icon"
+            prefix: "icon-bookmark-border"
+
+
+    "border-all":
+            body: "<i class='material-icons' >border_all</i>"
+            description: "type border-all material icon"
+            prefix: "icon-border-all"
+
+
+    "border-bottom":
+            body: "<i class='material-icons' >border_bottom</i>"
+            description: "type border-bottom material icon"
+            prefix: "icon-border-bottom"
+
+
+    "border-clear":
+            body: "<i class='material-icons' >border_clear</i>"
+            description: "type border-clear material icon"
+            prefix: "icon-border-clear"
+
+
+    "border-color":
+            body: "<i class='material-icons' >border_color</i>"
+            description: "type border-color material icon"
+            prefix: "icon-border-color"
+
+
+    "border-horizontal":
+            body: "<i class='material-icons' >border_horizontal</i>"
+            description: "type border-horizontal material icon"
+            prefix: "icon-border-horizontal"
+
+
+    "border-inner":
+            body: "<i class='material-icons' >border_inner</i>"
+            description: "type border-inner material icon"
+            prefix: "icon-border-inner"
+
+
+    "border-left":
+            body: "<i class='material-icons' >border_left</i>"
+            description: "type border-left material icon"
+            prefix: "icon-border-left"
+
+
+    "border-outer":
+            body: "<i class='material-icons' >border_outer</i>"
+            description: "type border-outer material icon"
+            prefix: "icon-border-outer"
+
+
+    "border-right":
+            body: "<i class='material-icons' >border_right</i>"
+            description: "type border-right material icon"
+            prefix: "icon-border-right"
+
+
+    "border-style":
+            body: "<i class='material-icons' >border_style</i>"
+            description: "type border-style material icon"
+            prefix: "icon-border-style"
+
+
+    "border-top":
+            body: "<i class='material-icons' >border_top</i>"
+            description: "type border-top material icon"
+            prefix: "icon-border-top"
+
+
+    "border-vertical":
+            body: "<i class='material-icons' >border_vertical</i>"
+            description: "type border-vertical material icon"
+            prefix: "icon-border-vertical"
+
+
+    "branding-watermark":
+            body: "<i class='material-icons' >branding_watermark</i>"
+            description: "type branding-watermark material icon"
+            prefix: "icon-branding-watermark"
+
+
+    "brightness-1":
+            body: "<i class='material-icons' >brightness_1</i>"
+            description: "type brightness-1 material icon"
+            prefix: "icon-brightness-1"
+
+
+    "brightness-2":
+            body: "<i class='material-icons' >brightness_2</i>"
+            description: "type brightness-2 material icon"
+            prefix: "icon-brightness-2"
+
+
+    "brightness-3":
+            body: "<i class='material-icons' >brightness_3</i>"
+            description: "type brightness-3 material icon"
+            prefix: "icon-brightness-3"
+
+
+    "brightness-4":
+            body: "<i class='material-icons' >brightness_4</i>"
+            description: "type brightness-4 material icon"
+            prefix: "icon-brightness-4"
+
+
+    "brightness-5":
+            body: "<i class='material-icons' >brightness_5</i>"
+            description: "type brightness-5 material icon"
+            prefix: "icon-brightness-5"
+
+
+    "brightness-6":
+            body: "<i class='material-icons' >brightness_6</i>"
+            description: "type brightness-6 material icon"
+            prefix: "icon-brightness-6"
+
+
+    "brightness-7":
+            body: "<i class='material-icons' >brightness_7</i>"
+            description: "type brightness-7 material icon"
+            prefix: "icon-brightness-7"
+
+
+    "brightness-auto":
+            body: "<i class='material-icons' >brightness_auto</i>"
+            description: "type brightness-auto material icon"
+            prefix: "icon-brightness-auto"
+
+
+    "brightness-high":
+            body: "<i class='material-icons' >brightness_high</i>"
+            description: "type brightness-high material icon"
+            prefix: "icon-brightness-high"
+
+
+    "brightness-low":
+            body: "<i class='material-icons' >brightness_low</i>"
+            description: "type brightness-low material icon"
+            prefix: "icon-brightness-low"
+
+
+    "brightness-medium":
+            body: "<i class='material-icons' >brightness_medium</i>"
+            description: "type brightness-medium material icon"
+            prefix: "icon-brightness-medium"
+
+
+    "broken-image":
+            body: "<i class='material-icons' >broken_image</i>"
+            description: "type broken-image material icon"
+            prefix: "icon-broken-image"
+
+
+    "brush":
+            body: "<i class='material-icons' >brush</i>"
+            description: "type brush material icon"
+            prefix: "icon-brush"
+
+
+    "bubble-chart":
+            body: "<i class='material-icons' >bubble_chart</i>"
+            description: "type bubble-chart material icon"
+            prefix: "icon-bubble-chart"
+
+
+    "bug-report":
+            body: "<i class='material-icons' >bug_report</i>"
+            description: "type bug-report material icon"
+            prefix: "icon-bug-report"
+
+
+    "build":
+            body: "<i class='material-icons' >build</i>"
+            description: "type build material icon"
+            prefix: "icon-build"
+
+
+    "burst-mode":
+            body: "<i class='material-icons' >burst_mode</i>"
+            description: "type burst-mode material icon"
+            prefix: "icon-burst-mode"
+
+
+    "business":
+            body: "<i class='material-icons' >business</i>"
+            description: "type business material icon"
+            prefix: "icon-business"
+
+
+    "business-center":
+            body: "<i class='material-icons' >business_center</i>"
+            description: "type business-center material icon"
+            prefix: "icon-business-center"
+
+
+    "cached":
+            body: "<i class='material-icons' >cached</i>"
+            description: "type cached material icon"
+            prefix: "icon-cached"
+
+
+    "cake":
+            body: "<i class='material-icons' >cake</i>"
+            description: "type cake material icon"
+            prefix: "icon-cake"
+
+
+    "call":
+            body: "<i class='material-icons' >call</i>"
+            description: "type call material icon"
+            prefix: "icon-call"
+
+
+    "call-end":
+            body: "<i class='material-icons' >call_end</i>"
+            description: "type call-end material icon"
+            prefix: "icon-call-end"
+
+
+    "call-made":
+            body: "<i class='material-icons' >call_made</i>"
+            description: "type call-made material icon"
+            prefix: "icon-call-made"
+
+
+    "call-merge":
+            body: "<i class='material-icons' >call_merge</i>"
+            description: "type call-merge material icon"
+            prefix: "icon-call-merge"
+
+
+    "call-missed":
+            body: "<i class='material-icons' >call_missed</i>"
+            description: "type call-missed material icon"
+            prefix: "icon-call-missed"
+
+
+    "call-missed-outgoing":
+            body: "<i class='material-icons' >call_missed_outgoing</i>"
+            description: "type call-missed-outgoing material icon"
+            prefix: "icon-call-missed-outgoing"
+
+
+    "call-received":
+            body: "<i class='material-icons' >call_received</i>"
+            description: "type call-received material icon"
+            prefix: "icon-call-received"
+
+
+    "call-split":
+            body: "<i class='material-icons' >call_split</i>"
+            description: "type call-split material icon"
+            prefix: "icon-call-split"
+
+
+    "call-to-action":
+            body: "<i class='material-icons' >call_to_action</i>"
+            description: "type call-to-action material icon"
+            prefix: "icon-call-to-action"
+
+
+    "camera":
+            body: "<i class='material-icons' >camera</i>"
+            description: "type camera material icon"
+            prefix: "icon-camera"
+
+
+    "camera-alt":
+            body: "<i class='material-icons' >camera_alt</i>"
+            description: "type camera-alt material icon"
+            prefix: "icon-camera-alt"
+
+
+    "camera-enhance":
+            body: "<i class='material-icons' >camera_enhance</i>"
+            description: "type camera-enhance material icon"
+            prefix: "icon-camera-enhance"
+
+
+    "camera-front":
+            body: "<i class='material-icons' >camera_front</i>"
+            description: "type camera-front material icon"
+            prefix: "icon-camera-front"
+
+
+    "camera-rear":
+            body: "<i class='material-icons' >camera_rear</i>"
+            description: "type camera-rear material icon"
+            prefix: "icon-camera-rear"
+
+
+    "camera-roll":
+            body: "<i class='material-icons' >camera_roll</i>"
+            description: "type camera-roll material icon"
+            prefix: "icon-camera-roll"
+
+
+    "cancel":
+            body: "<i class='material-icons' >cancel</i>"
+            description: "type cancel material icon"
+            prefix: "icon-cancel"
+
+
+    "card-giftcard":
+            body: "<i class='material-icons' >card_giftcard</i>"
+            description: "type card-giftcard material icon"
+            prefix: "icon-card-giftcard"
+
+
+    "card-membership":
+            body: "<i class='material-icons' >card_membership</i>"
+            description: "type card-membership material icon"
+            prefix: "icon-card-membership"
+
+
+    "card-travel":
+            body: "<i class='material-icons' >card_travel</i>"
+            description: "type card-travel material icon"
+            prefix: "icon-card-travel"
+
+
+    "casino":
+            body: "<i class='material-icons' >casino</i>"
+            description: "type casino material icon"
+            prefix: "icon-casino"
+
+
+    "cast":
+            body: "<i class='material-icons' >cast</i>"
+            description: "type cast material icon"
+            prefix: "icon-cast"
+
+
+    "cast-connected":
+            body: "<i class='material-icons' >cast_connected</i>"
+            description: "type cast-connected material icon"
+            prefix: "icon-cast-connected"
+
+
+    "center-focus-strong":
+            body: "<i class='material-icons' >center_focus_strong</i>"
+            description: "type center-focus-strong material icon"
+            prefix: "icon-center-focus-strong"
+
+
+    "center-focus-weak":
+            body: "<i class='material-icons' >center_focus_weak</i>"
+            description: "type center-focus-weak material icon"
+            prefix: "icon-center-focus-weak"
+
+
+    "change-history":
+            body: "<i class='material-icons' >change_history</i>"
+            description: "type change-history material icon"
+            prefix: "icon-change-history"
+
+
+    "chat":
+            body: "<i class='material-icons' >chat</i>"
+            description: "type chat material icon"
+            prefix: "icon-chat"
+
+
+    "chat-bubble":
+            body: "<i class='material-icons' >chat_bubble</i>"
+            description: "type chat-bubble material icon"
+            prefix: "icon-chat-bubble"
+
+
+    "chat-bubble-outline":
+            body: "<i class='material-icons' >chat_bubble_outline</i>"
+            description: "type chat-bubble-outline material icon"
+            prefix: "icon-chat-bubble-outline"
+
+
+    "check":
+            body: "<i class='material-icons' >check</i>"
+            description: "type check material icon"
+            prefix: "icon-check"
+
+
+    "check-box":
+            body: "<i class='material-icons' >check_box</i>"
+            description: "type check-box material icon"
+            prefix: "icon-check-box"
+
+
+    "check-box-outline-blank":
+            body: "<i class='material-icons' >check_box_outline_blank</i>"
+            description: "type check-box-outline-blank material icon"
+            prefix: "icon-check-box-outline-blank"
+
+
+    "check-circle":
+            body: "<i class='material-icons' >check_circle</i>"
+            description: "type check-circle material icon"
+            prefix: "icon-check-circle"
+
+
+    "chevron-left":
+            body: "<i class='material-icons' >chevron_left</i>"
+            description: "type chevron-left material icon"
+            prefix: "icon-chevron-left"
+
+
+    "chevron-right":
+            body: "<i class='material-icons' >chevron_right</i>"
+            description: "type chevron-right material icon"
+            prefix: "icon-chevron-right"
+
+
+    "child-care":
+            body: "<i class='material-icons' >child_care</i>"
+            description: "type child-care material icon"
+            prefix: "icon-child-care"
+
+
+    "child-friendly":
+            body: "<i class='material-icons' >child_friendly</i>"
+            description: "type child-friendly material icon"
+            prefix: "icon-child-friendly"
+
+
+    "chrome-reader-mode":
+            body: "<i class='material-icons' >chrome_reader_mode</i>"
+            description: "type chrome-reader-mode material icon"
+            prefix: "icon-chrome-reader-mode"
+
+
+    "class":
+            body: "<i class='material-icons' >class</i>"
+            description: "type class material icon"
+            prefix: "icon-class"
+
+
+    "clear":
+            body: "<i class='material-icons' >clear</i>"
+            description: "type clear material icon"
+            prefix: "icon-clear"
+
+
+    "clear-all":
+            body: "<i class='material-icons' >clear_all</i>"
+            description: "type clear-all material icon"
+            prefix: "icon-clear-all"
+
+
+    "close":
+            body: "<i class='material-icons' >close</i>"
+            description: "type close material icon"
+            prefix: "icon-close"
+
+
+    "closed-caption":
+            body: "<i class='material-icons' >closed_caption</i>"
+            description: "type closed-caption material icon"
+            prefix: "icon-closed-caption"
+
+
+    "cloud":
+            body: "<i class='material-icons' >cloud</i>"
+            description: "type cloud material icon"
+            prefix: "icon-cloud"
+
+
+    "cloud-circle":
+            body: "<i class='material-icons' >cloud_circle</i>"
+            description: "type cloud-circle material icon"
+            prefix: "icon-cloud-circle"
+
+
+    "cloud-done":
+            body: "<i class='material-icons' >cloud_done</i>"
+            description: "type cloud-done material icon"
+            prefix: "icon-cloud-done"
+
+
+    "cloud-download":
+            body: "<i class='material-icons' >cloud_download</i>"
+            description: "type cloud-download material icon"
+            prefix: "icon-cloud-download"
+
+
+    "cloud-off":
+            body: "<i class='material-icons' >cloud_off</i>"
+            description: "type cloud-off material icon"
+            prefix: "icon-cloud-off"
+
+
+    "cloud-queue":
+            body: "<i class='material-icons' >cloud_queue</i>"
+            description: "type cloud-queue material icon"
+            prefix: "icon-cloud-queue"
+
+
+    "cloud-upload":
+            body: "<i class='material-icons' >cloud_upload</i>"
+            description: "type cloud-upload material icon"
+            prefix: "icon-cloud-upload"
+
+
+    "code":
+            body: "<i class='material-icons' >code</i>"
+            description: "type code material icon"
+            prefix: "icon-code"
+
+
+    "collections":
+            body: "<i class='material-icons' >collections</i>"
+            description: "type collections material icon"
+            prefix: "icon-collections"
+
+
+    "collections-bookmark":
+            body: "<i class='material-icons' >collections_bookmark</i>"
+            description: "type collections-bookmark material icon"
+            prefix: "icon-collections-bookmark"
+
+
+    "color-lens":
+            body: "<i class='material-icons' >color_lens</i>"
+            description: "type color-lens material icon"
+            prefix: "icon-color-lens"
+
+
+    "colorize":
+            body: "<i class='material-icons' >colorize</i>"
+            description: "type colorize material icon"
+            prefix: "icon-colorize"
+
+
+    "comment":
+            body: "<i class='material-icons' >comment</i>"
+            description: "type comment material icon"
+            prefix: "icon-comment"
+
+
+    "compare":
+            body: "<i class='material-icons' >compare</i>"
+            description: "type compare material icon"
+            prefix: "icon-compare"
+
+
+    "compare-arrows":
+            body: "<i class='material-icons' >compare_arrows</i>"
+            description: "type compare-arrows material icon"
+            prefix: "icon-compare-arrows"
+
+
+    "computer":
+            body: "<i class='material-icons' >computer</i>"
+            description: "type computer material icon"
+            prefix: "icon-computer"
+
+
+    "confirmation-number":
+            body: "<i class='material-icons' >confirmation_number</i>"
+            description: "type confirmation-number material icon"
+            prefix: "icon-confirmation-number"
+
+
+    "contact-mail":
+            body: "<i class='material-icons' >contact_mail</i>"
+            description: "type contact-mail material icon"
+            prefix: "icon-contact-mail"
+
+
+    "contact-phone":
+            body: "<i class='material-icons' >contact_phone</i>"
+            description: "type contact-phone material icon"
+            prefix: "icon-contact-phone"
+
+
+    "contacts":
+            body: "<i class='material-icons' >contacts</i>"
+            description: "type contacts material icon"
+            prefix: "icon-contacts"
+
+
+    "content-copy":
+            body: "<i class='material-icons' >content_copy</i>"
+            description: "type content-copy material icon"
+            prefix: "icon-content-copy"
+
+
+    "content-cut":
+            body: "<i class='material-icons' >content_cut</i>"
+            description: "type content-cut material icon"
+            prefix: "icon-content-cut"
+
+
+    "content-paste":
+            body: "<i class='material-icons' >content_paste</i>"
+            description: "type content-paste material icon"
+            prefix: "icon-content-paste"
+
+
+    "control-point":
+            body: "<i class='material-icons' >control_point</i>"
+            description: "type control-point material icon"
+            prefix: "icon-control-point"
+
+
+    "control-point-duplicate":
+            body: "<i class='material-icons' >control_point_duplicate</i>"
+            description: "type control-point-duplicate material icon"
+            prefix: "icon-control-point-duplicate"
+
+
+    "copyright":
+            body: "<i class='material-icons' >copyright</i>"
+            description: "type copyright material icon"
+            prefix: "icon-copyright"
+
+
+    "create":
+            body: "<i class='material-icons' >create</i>"
+            description: "type create material icon"
+            prefix: "icon-create"
+
+
+    "create-new-folder":
+            body: "<i class='material-icons' >create_new_folder</i>"
+            description: "type create-new-folder material icon"
+            prefix: "icon-create-new-folder"
+
+
+    "credit-card":
+            body: "<i class='material-icons' >credit_card</i>"
+            description: "type credit-card material icon"
+            prefix: "icon-credit-card"
+
+
+    "crop":
+            body: "<i class='material-icons' >crop</i>"
+            description: "type crop material icon"
+            prefix: "icon-crop"
+
+
+    "crop-16-9":
+            body: "<i class='material-icons' >crop_16_9</i>"
+            description: "type crop-16-9 material icon"
+            prefix: "icon-crop-16-9"
+
+
+    "crop-3-2":
+            body: "<i class='material-icons' >crop_3_2</i>"
+            description: "type crop-3-2 material icon"
+            prefix: "icon-crop-3-2"
+
+
+    "crop-5-4":
+            body: "<i class='material-icons' >crop_5_4</i>"
+            description: "type crop-5-4 material icon"
+            prefix: "icon-crop-5-4"
+
+
+    "crop-7-5":
+            body: "<i class='material-icons' >crop_7_5</i>"
+            description: "type crop-7-5 material icon"
+            prefix: "icon-crop-7-5"
+
+
+    "crop-din":
+            body: "<i class='material-icons' >crop_din</i>"
+            description: "type crop-din material icon"
+            prefix: "icon-crop-din"
+
+
+    "crop-free":
+            body: "<i class='material-icons' >crop_free</i>"
+            description: "type crop-free material icon"
+            prefix: "icon-crop-free"
+
+
+    "crop-landscape":
+            body: "<i class='material-icons' >crop_landscape</i>"
+            description: "type crop-landscape material icon"
+            prefix: "icon-crop-landscape"
+
+
+    "crop-original":
+            body: "<i class='material-icons' >crop_original</i>"
+            description: "type crop-original material icon"
+            prefix: "icon-crop-original"
+
+
+    "crop-portrait":
+            body: "<i class='material-icons' >crop_portrait</i>"
+            description: "type crop-portrait material icon"
+            prefix: "icon-crop-portrait"
+
+
+    "crop-rotate":
+            body: "<i class='material-icons' >crop_rotate</i>"
+            description: "type crop-rotate material icon"
+            prefix: "icon-crop-rotate"
+
+
+    "crop-square":
+            body: "<i class='material-icons' >crop_square</i>"
+            description: "type crop-square material icon"
+            prefix: "icon-crop-square"
+
+
+    "dashboard":
+            body: "<i class='material-icons' >dashboard</i>"
+            description: "type dashboard material icon"
+            prefix: "icon-dashboard"
+
+
+    "data-usage":
+            body: "<i class='material-icons' >data_usage</i>"
+            description: "type data-usage material icon"
+            prefix: "icon-data-usage"
+
+
+    "date-range":
+            body: "<i class='material-icons' >date_range</i>"
+            description: "type date-range material icon"
+            prefix: "icon-date-range"
+
+
+    "dehaze":
+            body: "<i class='material-icons' >dehaze</i>"
+            description: "type dehaze material icon"
+            prefix: "icon-dehaze"
+
+
+    "delete":
+            body: "<i class='material-icons' >delete</i>"
+            description: "type delete material icon"
+            prefix: "icon-delete"
+
+
+    "delete-forever":
+            body: "<i class='material-icons' >delete_forever</i>"
+            description: "type delete-forever material icon"
+            prefix: "icon-delete-forever"
+
+
+    "delete-sweep":
+            body: "<i class='material-icons' >delete_sweep</i>"
+            description: "type delete-sweep material icon"
+            prefix: "icon-delete-sweep"
+
+
+    "description":
+            body: "<i class='material-icons' >description</i>"
+            description: "type description material icon"
+            prefix: "icon-description"
+
+
+    "desktop-mac":
+            body: "<i class='material-icons' >desktop_mac</i>"
+            description: "type desktop-mac material icon"
+            prefix: "icon-desktop-mac"
+
+
+    "desktop-windows":
+            body: "<i class='material-icons' >desktop_windows</i>"
+            description: "type desktop-windows material icon"
+            prefix: "icon-desktop-windows"
+
+
+    "details":
+            body: "<i class='material-icons' >details</i>"
+            description: "type details material icon"
+            prefix: "icon-details"
+
+
+    "developer-board":
+            body: "<i class='material-icons' >developer_board</i>"
+            description: "type developer-board material icon"
+            prefix: "icon-developer-board"
+
+
+    "developer-mode":
+            body: "<i class='material-icons' >developer_mode</i>"
+            description: "type developer-mode material icon"
+            prefix: "icon-developer-mode"
+
+
+    "device-hub":
+            body: "<i class='material-icons' >device_hub</i>"
+            description: "type device-hub material icon"
+            prefix: "icon-device-hub"
+
+
+    "devices":
+            body: "<i class='material-icons' >devices</i>"
+            description: "type devices material icon"
+            prefix: "icon-devices"
+
+
+    "devices-other":
+            body: "<i class='material-icons' >devices_other</i>"
+            description: "type devices-other material icon"
+            prefix: "icon-devices-other"
+
+
+    "dialer-sip":
+            body: "<i class='material-icons' >dialer_sip</i>"
+            description: "type dialer-sip material icon"
+            prefix: "icon-dialer-sip"
+
+
+    "dialpad":
+            body: "<i class='material-icons' >dialpad</i>"
+            description: "type dialpad material icon"
+            prefix: "icon-dialpad"
+
+
+    "directions":
+            body: "<i class='material-icons' >directions</i>"
+            description: "type directions material icon"
+            prefix: "icon-directions"
+
+
+    "directions-bike":
+            body: "<i class='material-icons' >directions_bike</i>"
+            description: "type directions-bike material icon"
+            prefix: "icon-directions-bike"
+
+
+    "directions-boat":
+            body: "<i class='material-icons' >directions_boat</i>"
+            description: "type directions-boat material icon"
+            prefix: "icon-directions-boat"
+
+
+    "directions-bus":
+            body: "<i class='material-icons' >directions_bus</i>"
+            description: "type directions-bus material icon"
+            prefix: "icon-directions-bus"
+
+
+    "directions-car":
+            body: "<i class='material-icons' >directions_car</i>"
+            description: "type directions-car material icon"
+            prefix: "icon-directions-car"
+
+
+    "directions-railway":
+            body: "<i class='material-icons' >directions_railway</i>"
+            description: "type directions-railway material icon"
+            prefix: "icon-directions-railway"
+
+
+    "directions-run":
+            body: "<i class='material-icons' >directions_run</i>"
+            description: "type directions-run material icon"
+            prefix: "icon-directions-run"
+
+
+    "directions-subway":
+            body: "<i class='material-icons' >directions_subway</i>"
+            description: "type directions-subway material icon"
+            prefix: "icon-directions-subway"
+
+
+    "directions-transit":
+            body: "<i class='material-icons' >directions_transit</i>"
+            description: "type directions-transit material icon"
+            prefix: "icon-directions-transit"
+
+
+    "directions-walk":
+            body: "<i class='material-icons' >directions_walk</i>"
+            description: "type directions-walk material icon"
+            prefix: "icon-directions-walk"
+
+
+    "disc-full":
+            body: "<i class='material-icons' >disc_full</i>"
+            description: "type disc-full material icon"
+            prefix: "icon-disc-full"
+
+
+    "dns":
+            body: "<i class='material-icons' >dns</i>"
+            description: "type dns material icon"
+            prefix: "icon-dns"
+
+
+    "do-not-disturb":
+            body: "<i class='material-icons' >do_not_disturb</i>"
+            description: "type do-not-disturb material icon"
+            prefix: "icon-do-not-disturb"
+
+
+    "do-not-disturb-alt":
+            body: "<i class='material-icons' >do_not_disturb_alt</i>"
+            description: "type do-not-disturb-alt material icon"
+            prefix: "icon-do-not-disturb-alt"
+
+
+    "do-not-disturb-off":
+            body: "<i class='material-icons' >do_not_disturb_off</i>"
+            description: "type do-not-disturb-off material icon"
+            prefix: "icon-do-not-disturb-off"
+
+
+    "do-not-disturb-on":
+            body: "<i class='material-icons' >do_not_disturb_on</i>"
+            description: "type do-not-disturb-on material icon"
+            prefix: "icon-do-not-disturb-on"
+
+
+    "dock":
+            body: "<i class='material-icons' >dock</i>"
+            description: "type dock material icon"
+            prefix: "icon-dock"
+
+
+    "domain":
+            body: "<i class='material-icons' >domain</i>"
+            description: "type domain material icon"
+            prefix: "icon-domain"
+
+
+    "done":
+            body: "<i class='material-icons' >done</i>"
+            description: "type done material icon"
+            prefix: "icon-done"
+
+
+    "done-all":
+            body: "<i class='material-icons' >done_all</i>"
+            description: "type done-all material icon"
+            prefix: "icon-done-all"
+
+
+    "donut-large":
+            body: "<i class='material-icons' >donut_large</i>"
+            description: "type donut-large material icon"
+            prefix: "icon-donut-large"
+
+
+    "donut-small":
+            body: "<i class='material-icons' >donut_small</i>"
+            description: "type donut-small material icon"
+            prefix: "icon-donut-small"
+
+
+    "drafts":
+            body: "<i class='material-icons' >drafts</i>"
+            description: "type drafts material icon"
+            prefix: "icon-drafts"
+
+
+    "drag-handle":
+            body: "<i class='material-icons' >drag_handle</i>"
+            description: "type drag-handle material icon"
+            prefix: "icon-drag-handle"
+
+
+    "drive-eta":
+            body: "<i class='material-icons' >drive_eta</i>"
+            description: "type drive-eta material icon"
+            prefix: "icon-drive-eta"
+
+
+    "dvr":
+            body: "<i class='material-icons' >dvr</i>"
+            description: "type dvr material icon"
+            prefix: "icon-dvr"
+
+
+    "edit":
+            body: "<i class='material-icons' >edit</i>"
+            description: "type edit material icon"
+            prefix: "icon-edit"
+
+
+    "edit-location":
+            body: "<i class='material-icons' >edit_location</i>"
+            description: "type edit-location material icon"
+            prefix: "icon-edit-location"
+
+
+    "eject":
+            body: "<i class='material-icons' >eject</i>"
+            description: "type eject material icon"
+            prefix: "icon-eject"
+
+
+    "email":
+            body: "<i class='material-icons' >email</i>"
+            description: "type email material icon"
+            prefix: "icon-email"
+
+
+    "enhanced-encryption":
+            body: "<i class='material-icons' >enhanced_encryption</i>"
+            description: "type enhanced-encryption material icon"
+            prefix: "icon-enhanced-encryption"
+
+
+    "equalizer":
+            body: "<i class='material-icons' >equalizer</i>"
+            description: "type equalizer material icon"
+            prefix: "icon-equalizer"
+
+
+    "error":
+            body: "<i class='material-icons' >error</i>"
+            description: "type error material icon"
+            prefix: "icon-error"
+
+
+    "error-outline":
+            body: "<i class='material-icons' >error_outline</i>"
+            description: "type error-outline material icon"
+            prefix: "icon-error-outline"
+
+
+    "euro-symbol":
+            body: "<i class='material-icons' >euro_symbol</i>"
+            description: "type euro-symbol material icon"
+            prefix: "icon-euro-symbol"
+
+
+    "ev-station":
+            body: "<i class='material-icons' >ev_station</i>"
+            description: "type ev-station material icon"
+            prefix: "icon-ev-station"
+
+
+    "event":
+            body: "<i class='material-icons' >event</i>"
+            description: "type event material icon"
+            prefix: "icon-event"
+
+
+    "event-available":
+            body: "<i class='material-icons' >event_available</i>"
+            description: "type event-available material icon"
+            prefix: "icon-event-available"
+
+
+    "event-busy":
+            body: "<i class='material-icons' >event_busy</i>"
+            description: "type event-busy material icon"
+            prefix: "icon-event-busy"
+
+
+    "event-note":
+            body: "<i class='material-icons' >event_note</i>"
+            description: "type event-note material icon"
+            prefix: "icon-event-note"
+
+
+    "event-seat":
+            body: "<i class='material-icons' >event_seat</i>"
+            description: "type event-seat material icon"
+            prefix: "icon-event-seat"
+
+
+    "exit-to-app":
+            body: "<i class='material-icons' >exit_to_app</i>"
+            description: "type exit-to-app material icon"
+            prefix: "icon-exit-to-app"
+
+
+    "expand-less":
+            body: "<i class='material-icons' >expand_less</i>"
+            description: "type expand-less material icon"
+            prefix: "icon-expand-less"
+
+
+    "expand-more":
+            body: "<i class='material-icons' >expand_more</i>"
+            description: "type expand-more material icon"
+            prefix: "icon-expand-more"
+
+
+    "explicit":
+            body: "<i class='material-icons' >explicit</i>"
+            description: "type explicit material icon"
+            prefix: "icon-explicit"
+
+
+    "explore":
+            body: "<i class='material-icons' >explore</i>"
+            description: "type explore material icon"
+            prefix: "icon-explore"
+
+
+    "exposure":
+            body: "<i class='material-icons' >exposure</i>"
+            description: "type exposure material icon"
+            prefix: "icon-exposure"
+
+
+    "exposure-neg-1":
+            body: "<i class='material-icons' >exposure_neg_1</i>"
+            description: "type exposure-neg-1 material icon"
+            prefix: "icon-exposure-neg-1"
+
+
+    "exposure-neg-2":
+            body: "<i class='material-icons' >exposure_neg_2</i>"
+            description: "type exposure-neg-2 material icon"
+            prefix: "icon-exposure-neg-2"
+
+
+    "exposure-plus-1":
+            body: "<i class='material-icons' >exposure_plus_1</i>"
+            description: "type exposure-plus-1 material icon"
+            prefix: "icon-exposure-plus-1"
+
+
+    "exposure-plus-2":
+            body: "<i class='material-icons' >exposure_plus_2</i>"
+            description: "type exposure-plus-2 material icon"
+            prefix: "icon-exposure-plus-2"
+
+
+    "exposure-zero":
+            body: "<i class='material-icons' >exposure_zero</i>"
+            description: "type exposure-zero material icon"
+            prefix: "icon-exposure-zero"
+
+
+    "extension":
+            body: "<i class='material-icons' >extension</i>"
+            description: "type extension material icon"
+            prefix: "icon-extension"
+
+
+    "face":
+            body: "<i class='material-icons' >face</i>"
+            description: "type face material icon"
+            prefix: "icon-face"
+
+
+    "fast-forward":
+            body: "<i class='material-icons' >fast_forward</i>"
+            description: "type fast-forward material icon"
+            prefix: "icon-fast-forward"
+
+
+    "fast-rewind":
+            body: "<i class='material-icons' >fast_rewind</i>"
+            description: "type fast-rewind material icon"
+            prefix: "icon-fast-rewind"
+
+
+    "favorite":
+            body: "<i class='material-icons' >favorite</i>"
+            description: "type favorite material icon"
+            prefix: "icon-favorite"
+
+
+    "favorite-border":
+            body: "<i class='material-icons' >favorite_border</i>"
+            description: "type favorite-border material icon"
+            prefix: "icon-favorite-border"
+
+
+    "featured-play-list":
+            body: "<i class='material-icons' >featured_play_list</i>"
+            description: "type featured-play-list material icon"
+            prefix: "icon-featured-play-list"
+
+
+    "featured-video":
+            body: "<i class='material-icons' >featured_video</i>"
+            description: "type featured-video material icon"
+            prefix: "icon-featured-video"
+
+
+    "feedback":
+            body: "<i class='material-icons' >feedback</i>"
+            description: "type feedback material icon"
+            prefix: "icon-feedback"
+
+
+    "fiber-dvr":
+            body: "<i class='material-icons' >fiber_dvr</i>"
+            description: "type fiber-dvr material icon"
+            prefix: "icon-fiber-dvr"
+
+
+    "fiber-manual-record":
+            body: "<i class='material-icons' >fiber_manual_record</i>"
+            description: "type fiber-manual-record material icon"
+            prefix: "icon-fiber-manual-record"
+
+
+    "fiber-new":
+            body: "<i class='material-icons' >fiber_new</i>"
+            description: "type fiber-new material icon"
+            prefix: "icon-fiber-new"
+
+
+    "fiber-pin":
+            body: "<i class='material-icons' >fiber_pin</i>"
+            description: "type fiber-pin material icon"
+            prefix: "icon-fiber-pin"
+
+
+    "fiber-smart-record":
+            body: "<i class='material-icons' >fiber_smart_record</i>"
+            description: "type fiber-smart-record material icon"
+            prefix: "icon-fiber-smart-record"
+
+
+    "file-download":
+            body: "<i class='material-icons' >file_download</i>"
+            description: "type file-download material icon"
+            prefix: "icon-file-download"
+
+
+    "file-upload":
+            body: "<i class='material-icons' >file_upload</i>"
+            description: "type file-upload material icon"
+            prefix: "icon-file-upload"
+
+
+    "filter":
+            body: "<i class='material-icons' >filter</i>"
+            description: "type filter material icon"
+            prefix: "icon-filter"
+
+
+    "filter-1":
+            body: "<i class='material-icons' >filter_1</i>"
+            description: "type filter-1 material icon"
+            prefix: "icon-filter-1"
+
+
+    "filter-2":
+            body: "<i class='material-icons' >filter_2</i>"
+            description: "type filter-2 material icon"
+            prefix: "icon-filter-2"
+
+
+    "filter-3":
+            body: "<i class='material-icons' >filter_3</i>"
+            description: "type filter-3 material icon"
+            prefix: "icon-filter-3"
+
+
+    "filter-4":
+            body: "<i class='material-icons' >filter_4</i>"
+            description: "type filter-4 material icon"
+            prefix: "icon-filter-4"
+
+
+    "filter-5":
+            body: "<i class='material-icons' >filter_5</i>"
+            description: "type filter-5 material icon"
+            prefix: "icon-filter-5"
+
+
+    "filter-6":
+            body: "<i class='material-icons' >filter_6</i>"
+            description: "type filter-6 material icon"
+            prefix: "icon-filter-6"
+
+
+    "filter-7":
+            body: "<i class='material-icons' >filter_7</i>"
+            description: "type filter-7 material icon"
+            prefix: "icon-filter-7"
+
+
+    "filter-8":
+            body: "<i class='material-icons' >filter_8</i>"
+            description: "type filter-8 material icon"
+            prefix: "icon-filter-8"
+
+
+    "filter-9":
+            body: "<i class='material-icons' >filter_9</i>"
+            description: "type filter-9 material icon"
+            prefix: "icon-filter-9"
+
+
+    "filter-9-plus":
+            body: "<i class='material-icons' >filter_9_plus</i>"
+            description: "type filter-9-plus material icon"
+            prefix: "icon-filter-9-plus"
+
+
+    "filter-b-and-w":
+            body: "<i class='material-icons' >filter_b_and_w</i>"
+            description: "type filter-b-and-w material icon"
+            prefix: "icon-filter-b-and-w"
+
+
+    "filter-center-focus":
+            body: "<i class='material-icons' >filter_center_focus</i>"
+            description: "type filter-center-focus material icon"
+            prefix: "icon-filter-center-focus"
+
+
+    "filter-drama":
+            body: "<i class='material-icons' >filter_drama</i>"
+            description: "type filter-drama material icon"
+            prefix: "icon-filter-drama"
+
+
+    "filter-frames":
+            body: "<i class='material-icons' >filter_frames</i>"
+            description: "type filter-frames material icon"
+            prefix: "icon-filter-frames"
+
+
+    "filter-hdr":
+            body: "<i class='material-icons' >filter_hdr</i>"
+            description: "type filter-hdr material icon"
+            prefix: "icon-filter-hdr"
+
+
+    "filter-list":
+            body: "<i class='material-icons' >filter_list</i>"
+            description: "type filter-list material icon"
+            prefix: "icon-filter-list"
+
+
+    "filter-none":
+            body: "<i class='material-icons' >filter_none</i>"
+            description: "type filter-none material icon"
+            prefix: "icon-filter-none"
+
+
+    "filter-tilt-shift":
+            body: "<i class='material-icons' >filter_tilt_shift</i>"
+            description: "type filter-tilt-shift material icon"
+            prefix: "icon-filter-tilt-shift"
+
+
+    "filter-vintage":
+            body: "<i class='material-icons' >filter_vintage</i>"
+            description: "type filter-vintage material icon"
+            prefix: "icon-filter-vintage"
+
+
+    "find-in-page":
+            body: "<i class='material-icons' >find_in_page</i>"
+            description: "type find-in-page material icon"
+            prefix: "icon-find-in-page"
+
+
+    "find-replace":
+            body: "<i class='material-icons' >find_replace</i>"
+            description: "type find-replace material icon"
+            prefix: "icon-find-replace"
+
+
+    "fingerprint":
+            body: "<i class='material-icons' >fingerprint</i>"
+            description: "type fingerprint material icon"
+            prefix: "icon-fingerprint"
+
+
+    "first-page":
+            body: "<i class='material-icons' >first_page</i>"
+            description: "type first-page material icon"
+            prefix: "icon-first-page"
+
+
+    "fitness-center":
+            body: "<i class='material-icons' >fitness_center</i>"
+            description: "type fitness-center material icon"
+            prefix: "icon-fitness-center"
+
+
+    "flag":
+            body: "<i class='material-icons' >flag</i>"
+            description: "type flag material icon"
+            prefix: "icon-flag"
+
+
+    "flare":
+            body: "<i class='material-icons' >flare</i>"
+            description: "type flare material icon"
+            prefix: "icon-flare"
+
+
+    "flash-auto":
+            body: "<i class='material-icons' >flash_auto</i>"
+            description: "type flash-auto material icon"
+            prefix: "icon-flash-auto"
+
+
+    "flash-off":
+            body: "<i class='material-icons' >flash_off</i>"
+            description: "type flash-off material icon"
+            prefix: "icon-flash-off"
+
+
+    "flash-on":
+            body: "<i class='material-icons' >flash_on</i>"
+            description: "type flash-on material icon"
+            prefix: "icon-flash-on"
+
+
+    "flight":
+            body: "<i class='material-icons' >flight</i>"
+            description: "type flight material icon"
+            prefix: "icon-flight"
+
+
+    "flight-land":
+            body: "<i class='material-icons' >flight_land</i>"
+            description: "type flight-land material icon"
+            prefix: "icon-flight-land"
+
+
+    "flight-takeoff":
+            body: "<i class='material-icons' >flight_takeoff</i>"
+            description: "type flight-takeoff material icon"
+            prefix: "icon-flight-takeoff"
+
+
+    "flip":
+            body: "<i class='material-icons' >flip</i>"
+            description: "type flip material icon"
+            prefix: "icon-flip"
+
+
+    "flip-to-back":
+            body: "<i class='material-icons' >flip_to_back</i>"
+            description: "type flip-to-back material icon"
+            prefix: "icon-flip-to-back"
+
+
+    "flip-to-front":
+            body: "<i class='material-icons' >flip_to_front</i>"
+            description: "type flip-to-front material icon"
+            prefix: "icon-flip-to-front"
+
+
+    "folder":
+            body: "<i class='material-icons' >folder</i>"
+            description: "type folder material icon"
+            prefix: "icon-folder"
+
+
+    "folder-open":
+            body: "<i class='material-icons' >folder_open</i>"
+            description: "type folder-open material icon"
+            prefix: "icon-folder-open"
+
+
+    "folder-shared":
+            body: "<i class='material-icons' >folder_shared</i>"
+            description: "type folder-shared material icon"
+            prefix: "icon-folder-shared"
+
+
+    "folder-special":
+            body: "<i class='material-icons' >folder_special</i>"
+            description: "type folder-special material icon"
+            prefix: "icon-folder-special"
+
+
+    "font-download":
+            body: "<i class='material-icons' >font_download</i>"
+            description: "type font-download material icon"
+            prefix: "icon-font-download"
+
+
+    "format-align-center":
+            body: "<i class='material-icons' >format_align_center</i>"
+            description: "type format-align-center material icon"
+            prefix: "icon-format-align-center"
+
+
+    "format-align-justify":
+            body: "<i class='material-icons' >format_align_justify</i>"
+            description: "type format-align-justify material icon"
+            prefix: "icon-format-align-justify"
+
+
+    "format-align-left":
+            body: "<i class='material-icons' >format_align_left</i>"
+            description: "type format-align-left material icon"
+            prefix: "icon-format-align-left"
+
+
+    "format-align-right":
+            body: "<i class='material-icons' >format_align_right</i>"
+            description: "type format-align-right material icon"
+            prefix: "icon-format-align-right"
+
+
+    "format-bold":
+            body: "<i class='material-icons' >format_bold</i>"
+            description: "type format-bold material icon"
+            prefix: "icon-format-bold"
+
+
+    "format-clear":
+            body: "<i class='material-icons' >format_clear</i>"
+            description: "type format-clear material icon"
+            prefix: "icon-format-clear"
+
+
+    "format-color-fill":
+            body: "<i class='material-icons' >format_color_fill</i>"
+            description: "type format-color-fill material icon"
+            prefix: "icon-format-color-fill"
+
+
+    "format-color-reset":
+            body: "<i class='material-icons' >format_color_reset</i>"
+            description: "type format-color-reset material icon"
+            prefix: "icon-format-color-reset"
+
+
+    "format-color-text":
+            body: "<i class='material-icons' >format_color_text</i>"
+            description: "type format-color-text material icon"
+            prefix: "icon-format-color-text"
+
+
+    "format-indent-decrease":
+            body: "<i class='material-icons' >format_indent_decrease</i>"
+            description: "type format-indent-decrease material icon"
+            prefix: "icon-format-indent-decrease"
+
+
+    "format-indent-increase":
+            body: "<i class='material-icons' >format_indent_increase</i>"
+            description: "type format-indent-increase material icon"
+            prefix: "icon-format-indent-increase"
+
+
+    "format-italic":
+            body: "<i class='material-icons' >format_italic</i>"
+            description: "type format-italic material icon"
+            prefix: "icon-format-italic"
+
+
+    "format-line-spacing":
+            body: "<i class='material-icons' >format_line_spacing</i>"
+            description: "type format-line-spacing material icon"
+            prefix: "icon-format-line-spacing"
+
+
+    "format-list-bulleted":
+            body: "<i class='material-icons' >format_list_bulleted</i>"
+            description: "type format-list-bulleted material icon"
+            prefix: "icon-format-list-bulleted"
+
+
+    "format-list-numbered":
+            body: "<i class='material-icons' >format_list_numbered</i>"
+            description: "type format-list-numbered material icon"
+            prefix: "icon-format-list-numbered"
+
+
+    "format-paint":
+            body: "<i class='material-icons' >format_paint</i>"
+            description: "type format-paint material icon"
+            prefix: "icon-format-paint"
+
+
+    "format-quote":
+            body: "<i class='material-icons' >format_quote</i>"
+            description: "type format-quote material icon"
+            prefix: "icon-format-quote"
+
+
+    "format-shapes":
+            body: "<i class='material-icons' >format_shapes</i>"
+            description: "type format-shapes material icon"
+            prefix: "icon-format-shapes"
+
+
+    "format-size":
+            body: "<i class='material-icons' >format_size</i>"
+            description: "type format-size material icon"
+            prefix: "icon-format-size"
+
+
+    "format-strikethrough":
+            body: "<i class='material-icons' >format_strikethrough</i>"
+            description: "type format-strikethrough material icon"
+            prefix: "icon-format-strikethrough"
+
+
+    "format-textdirection-l-to-r":
+            body: "<i class='material-icons' >format_textdirection_l_to_r</i>"
+            description: "type format-textdirection-l-to-r material icon"
+            prefix: "icon-format-textdirection-l-to-r"
+
+
+    "format-textdirection-r-to-l":
+            body: "<i class='material-icons' >format_textdirection_r_to_l</i>"
+            description: "type format-textdirection-r-to-l material icon"
+            prefix: "icon-format-textdirection-r-to-l"
+
+
+    "format-underlined":
+            body: "<i class='material-icons' >format_underlined</i>"
+            description: "type format-underlined material icon"
+            prefix: "icon-format-underlined"
+
+
+    "forum":
+            body: "<i class='material-icons' >forum</i>"
+            description: "type forum material icon"
+            prefix: "icon-forum"
+
+
+    "forward":
+            body: "<i class='material-icons' >forward</i>"
+            description: "type forward material icon"
+            prefix: "icon-forward"
+
+
+    "forward-10":
+            body: "<i class='material-icons' >forward_10</i>"
+            description: "type forward-10 material icon"
+            prefix: "icon-forward-10"
+
+
+    "forward-30":
+            body: "<i class='material-icons' >forward_30</i>"
+            description: "type forward-30 material icon"
+            prefix: "icon-forward-30"
+
+
+    "forward-5":
+            body: "<i class='material-icons' >forward_5</i>"
+            description: "type forward-5 material icon"
+            prefix: "icon-forward-5"
+
+
+    "free-breakfast":
+            body: "<i class='material-icons' >free_breakfast</i>"
+            description: "type free-breakfast material icon"
+            prefix: "icon-free-breakfast"
+
+
+    "fullscreen":
+            body: "<i class='material-icons' >fullscreen</i>"
+            description: "type fullscreen material icon"
+            prefix: "icon-fullscreen"
+
+
+    "fullscreen-exit":
+            body: "<i class='material-icons' >fullscreen_exit</i>"
+            description: "type fullscreen-exit material icon"
+            prefix: "icon-fullscreen-exit"
+
+
+    "functions":
+            body: "<i class='material-icons' >functions</i>"
+            description: "type functions material icon"
+            prefix: "icon-functions"
+
+
+    "g-translate":
+            body: "<i class='material-icons' >g_translate</i>"
+            description: "type g-translate material icon"
+            prefix: "icon-g-translate"
+
+
+    "gamepad":
+            body: "<i class='material-icons' >gamepad</i>"
+            description: "type gamepad material icon"
+            prefix: "icon-gamepad"
+
+
+    "games":
+            body: "<i class='material-icons' >games</i>"
+            description: "type games material icon"
+            prefix: "icon-games"
+
+
+    "gavel":
+            body: "<i class='material-icons' >gavel</i>"
+            description: "type gavel material icon"
+            prefix: "icon-gavel"
+
+
+    "gesture":
+            body: "<i class='material-icons' >gesture</i>"
+            description: "type gesture material icon"
+            prefix: "icon-gesture"
+
+
+    "get-app":
+            body: "<i class='material-icons' >get_app</i>"
+            description: "type get-app material icon"
+            prefix: "icon-get-app"
+
+
+    "gif":
+            body: "<i class='material-icons' >gif</i>"
+            description: "type gif material icon"
+            prefix: "icon-gif"
+
+
+    "golf-course":
+            body: "<i class='material-icons' >golf_course</i>"
+            description: "type golf-course material icon"
+            prefix: "icon-golf-course"
+
+
+    "gps-fixed":
+            body: "<i class='material-icons' >gps_fixed</i>"
+            description: "type gps-fixed material icon"
+            prefix: "icon-gps-fixed"
+
+
+    "gps-not-fixed":
+            body: "<i class='material-icons' >gps_not_fixed</i>"
+            description: "type gps-not-fixed material icon"
+            prefix: "icon-gps-not-fixed"
+
+
+    "gps-off":
+            body: "<i class='material-icons' >gps_off</i>"
+            description: "type gps-off material icon"
+            prefix: "icon-gps-off"
+
+
+    "grade":
+            body: "<i class='material-icons' >grade</i>"
+            description: "type grade material icon"
+            prefix: "icon-grade"
+
+
+    "gradient":
+            body: "<i class='material-icons' >gradient</i>"
+            description: "type gradient material icon"
+            prefix: "icon-gradient"
+
+
+    "grain":
+            body: "<i class='material-icons' >grain</i>"
+            description: "type grain material icon"
+            prefix: "icon-grain"
+
+
+    "graphic-eq":
+            body: "<i class='material-icons' >graphic_eq</i>"
+            description: "type graphic-eq material icon"
+            prefix: "icon-graphic-eq"
+
+
+    "grid-off":
+            body: "<i class='material-icons' >grid_off</i>"
+            description: "type grid-off material icon"
+            prefix: "icon-grid-off"
+
+
+    "grid-on":
+            body: "<i class='material-icons' >grid_on</i>"
+            description: "type grid-on material icon"
+            prefix: "icon-grid-on"
+
+
+    "group":
+            body: "<i class='material-icons' >group</i>"
+            description: "type group material icon"
+            prefix: "icon-group"
+
+
+    "group-add":
+            body: "<i class='material-icons' >group_add</i>"
+            description: "type group-add material icon"
+            prefix: "icon-group-add"
+
+
+    "group-work":
+            body: "<i class='material-icons' >group_work</i>"
+            description: "type group-work material icon"
+            prefix: "icon-group-work"
+
+
+    "hd":
+            body: "<i class='material-icons' >hd</i>"
+            description: "type hd material icon"
+            prefix: "icon-hd"
+
+
+    "hdr-off":
+            body: "<i class='material-icons' >hdr_off</i>"
+            description: "type hdr-off material icon"
+            prefix: "icon-hdr-off"
+
+
+    "hdr-on":
+            body: "<i class='material-icons' >hdr_on</i>"
+            description: "type hdr-on material icon"
+            prefix: "icon-hdr-on"
+
+
+    "hdr-strong":
+            body: "<i class='material-icons' >hdr_strong</i>"
+            description: "type hdr-strong material icon"
+            prefix: "icon-hdr-strong"
+
+
+    "hdr-weak":
+            body: "<i class='material-icons' >hdr_weak</i>"
+            description: "type hdr-weak material icon"
+            prefix: "icon-hdr-weak"
+
+
+    "headset":
+            body: "<i class='material-icons' >headset</i>"
+            description: "type headset material icon"
+            prefix: "icon-headset"
+
+
+    "headset-mic":
+            body: "<i class='material-icons' >headset_mic</i>"
+            description: "type headset-mic material icon"
+            prefix: "icon-headset-mic"
+
+
+    "healing":
+            body: "<i class='material-icons' >healing</i>"
+            description: "type healing material icon"
+            prefix: "icon-healing"
+
+
+    "hearing":
+            body: "<i class='material-icons' >hearing</i>"
+            description: "type hearing material icon"
+            prefix: "icon-hearing"
+
+
+    "help":
+            body: "<i class='material-icons' >help</i>"
+            description: "type help material icon"
+            prefix: "icon-help"
+
+
+    "help-outline":
+            body: "<i class='material-icons' >help_outline</i>"
+            description: "type help-outline material icon"
+            prefix: "icon-help-outline"
+
+
+    "high-quality":
+            body: "<i class='material-icons' >high_quality</i>"
+            description: "type high-quality material icon"
+            prefix: "icon-high-quality"
+
+
+    "highlight":
+            body: "<i class='material-icons' >highlight</i>"
+            description: "type highlight material icon"
+            prefix: "icon-highlight"
+
+
+    "highlight-off":
+            body: "<i class='material-icons' >highlight_off</i>"
+            description: "type highlight-off material icon"
+            prefix: "icon-highlight-off"
+
+
+    "history":
+            body: "<i class='material-icons' >history</i>"
+            description: "type history material icon"
+            prefix: "icon-history"
+
+
+    "home":
+            body: "<i class='material-icons' >home</i>"
+            description: "type home material icon"
+            prefix: "icon-home"
+
+
+    "hot-tub":
+            body: "<i class='material-icons' >hot_tub</i>"
+            description: "type hot-tub material icon"
+            prefix: "icon-hot-tub"
+
+
+    "hotel":
+            body: "<i class='material-icons' >hotel</i>"
+            description: "type hotel material icon"
+            prefix: "icon-hotel"
+
+
+    "hourglass-empty":
+            body: "<i class='material-icons' >hourglass_empty</i>"
+            description: "type hourglass-empty material icon"
+            prefix: "icon-hourglass-empty"
+
+
+    "hourglass-full":
+            body: "<i class='material-icons' >hourglass_full</i>"
+            description: "type hourglass-full material icon"
+            prefix: "icon-hourglass-full"
+
+
+    "http":
+            body: "<i class='material-icons' >http</i>"
+            description: "type http material icon"
+            prefix: "icon-http"
+
+
+    "https":
+            body: "<i class='material-icons' >https</i>"
+            description: "type https material icon"
+            prefix: "icon-https"
+
+
+    "image":
+            body: "<i class='material-icons' >image</i>"
+            description: "type image material icon"
+            prefix: "icon-image"
+
+
+    "image-aspect-ratio":
+            body: "<i class='material-icons' >image_aspect_ratio</i>"
+            description: "type image-aspect-ratio material icon"
+            prefix: "icon-image-aspect-ratio"
+
+
+    "import-contacts":
+            body: "<i class='material-icons' >import_contacts</i>"
+            description: "type import-contacts material icon"
+            prefix: "icon-import-contacts"
+
+
+    "import-export":
+            body: "<i class='material-icons' >import_export</i>"
+            description: "type import-export material icon"
+            prefix: "icon-import-export"
+
+
+    "important-devices":
+            body: "<i class='material-icons' >important_devices</i>"
+            description: "type important-devices material icon"
+            prefix: "icon-important-devices"
+
+
+    "inbox":
+            body: "<i class='material-icons' >inbox</i>"
+            description: "type inbox material icon"
+            prefix: "icon-inbox"
+
+
+    "indeterminate-check-box":
+            body: "<i class='material-icons' >indeterminate_check_box</i>"
+            description: "type indeterminate-check-box material icon"
+            prefix: "icon-indeterminate-check-box"
+
+
+    "info":
+            body: "<i class='material-icons' >info</i>"
+            description: "type info material icon"
+            prefix: "icon-info"
+
+
+    "info-outline":
+            body: "<i class='material-icons' >info_outline</i>"
+            description: "type info-outline material icon"
+            prefix: "icon-info-outline"
+
+
+    "input":
+            body: "<i class='material-icons' >input</i>"
+            description: "type input material icon"
+            prefix: "icon-input"
+
+
+    "insert-chart":
+            body: "<i class='material-icons' >insert_chart</i>"
+            description: "type insert-chart material icon"
+            prefix: "icon-insert-chart"
+
+
+    "insert-comment":
+            body: "<i class='material-icons' >insert_comment</i>"
+            description: "type insert-comment material icon"
+            prefix: "icon-insert-comment"
+
+
+    "insert-drive-file":
+            body: "<i class='material-icons' >insert_drive_file</i>"
+            description: "type insert-drive-file material icon"
+            prefix: "icon-insert-drive-file"
+
+
+    "insert-emoticon":
+            body: "<i class='material-icons' >insert_emoticon</i>"
+            description: "type insert-emoticon material icon"
+            prefix: "icon-insert-emoticon"
+
+
+    "insert-invitation":
+            body: "<i class='material-icons' >insert_invitation</i>"
+            description: "type insert-invitation material icon"
+            prefix: "icon-insert-invitation"
+
+
+    "insert-link":
+            body: "<i class='material-icons' >insert_link</i>"
+            description: "type insert-link material icon"
+            prefix: "icon-insert-link"
+
+
+    "insert-photo":
+            body: "<i class='material-icons' >insert_photo</i>"
+            description: "type insert-photo material icon"
+            prefix: "icon-insert-photo"
+
+
+    "invert-colors":
+            body: "<i class='material-icons' >invert_colors</i>"
+            description: "type invert-colors material icon"
+            prefix: "icon-invert-colors"
+
+
+    "invert-colors-off":
+            body: "<i class='material-icons' >invert_colors_off</i>"
+            description: "type invert-colors-off material icon"
+            prefix: "icon-invert-colors-off"
+
+
+    "iso":
+            body: "<i class='material-icons' >iso</i>"
+            description: "type iso material icon"
+            prefix: "icon-iso"
+
+
+    "keyboard":
+            body: "<i class='material-icons' >keyboard</i>"
+            description: "type keyboard material icon"
+            prefix: "icon-keyboard"
+
+
+    "keyboard-arrow-down":
+            body: "<i class='material-icons' >keyboard_arrow_down</i>"
+            description: "type keyboard-arrow-down material icon"
+            prefix: "icon-keyboard-arrow-down"
+
+
+    "keyboard-arrow-left":
+            body: "<i class='material-icons' >keyboard_arrow_left</i>"
+            description: "type keyboard-arrow-left material icon"
+            prefix: "icon-keyboard-arrow-left"
+
+
+    "keyboard-arrow-right":
+            body: "<i class='material-icons' >keyboard_arrow_right</i>"
+            description: "type keyboard-arrow-right material icon"
+            prefix: "icon-keyboard-arrow-right"
+
+
+    "keyboard-arrow-up":
+            body: "<i class='material-icons' >keyboard_arrow_up</i>"
+            description: "type keyboard-arrow-up material icon"
+            prefix: "icon-keyboard-arrow-up"
+
+
+    "keyboard-backspace":
+            body: "<i class='material-icons' >keyboard_backspace</i>"
+            description: "type keyboard-backspace material icon"
+            prefix: "icon-keyboard-backspace"
+
+
+    "keyboard-capslock":
+            body: "<i class='material-icons' >keyboard_capslock</i>"
+            description: "type keyboard-capslock material icon"
+            prefix: "icon-keyboard-capslock"
+
+
+    "keyboard-hide":
+            body: "<i class='material-icons' >keyboard_hide</i>"
+            description: "type keyboard-hide material icon"
+            prefix: "icon-keyboard-hide"
+
+
+    "keyboard-return":
+            body: "<i class='material-icons' >keyboard_return</i>"
+            description: "type keyboard-return material icon"
+            prefix: "icon-keyboard-return"
+
+
+    "keyboard-tab":
+            body: "<i class='material-icons' >keyboard_tab</i>"
+            description: "type keyboard-tab material icon"
+            prefix: "icon-keyboard-tab"
+
+
+    "keyboard-voice":
+            body: "<i class='material-icons' >keyboard_voice</i>"
+            description: "type keyboard-voice material icon"
+            prefix: "icon-keyboard-voice"
+
+
+    "kitchen":
+            body: "<i class='material-icons' >kitchen</i>"
+            description: "type kitchen material icon"
+            prefix: "icon-kitchen"
+
+
+    "label":
+            body: "<i class='material-icons' >label</i>"
+            description: "type label material icon"
+            prefix: "icon-label"
+
+
+    "label-outline":
+            body: "<i class='material-icons' >label_outline</i>"
+            description: "type label-outline material icon"
+            prefix: "icon-label-outline"
+
+
+    "landscape":
+            body: "<i class='material-icons' >landscape</i>"
+            description: "type landscape material icon"
+            prefix: "icon-landscape"
+
+
+    "language":
+            body: "<i class='material-icons' >language</i>"
+            description: "type language material icon"
+            prefix: "icon-language"
+
+
+    "laptop":
+            body: "<i class='material-icons' >laptop</i>"
+            description: "type laptop material icon"
+            prefix: "icon-laptop"
+
+
+    "laptop-chromebook":
+            body: "<i class='material-icons' >laptop_chromebook</i>"
+            description: "type laptop-chromebook material icon"
+            prefix: "icon-laptop-chromebook"
+
+
+    "laptop-mac":
+            body: "<i class='material-icons' >laptop_mac</i>"
+            description: "type laptop-mac material icon"
+            prefix: "icon-laptop-mac"
+
+
+    "laptop-windows":
+            body: "<i class='material-icons' >laptop_windows</i>"
+            description: "type laptop-windows material icon"
+            prefix: "icon-laptop-windows"
+
+
+    "last-page":
+            body: "<i class='material-icons' >last_page</i>"
+            description: "type last-page material icon"
+            prefix: "icon-last-page"
+
+
+    "launch":
+            body: "<i class='material-icons' >launch</i>"
+            description: "type launch material icon"
+            prefix: "icon-launch"
+
+
+    "layers":
+            body: "<i class='material-icons' >layers</i>"
+            description: "type layers material icon"
+            prefix: "icon-layers"
+
+
+    "layers-clear":
+            body: "<i class='material-icons' >layers_clear</i>"
+            description: "type layers-clear material icon"
+            prefix: "icon-layers-clear"
+
+
+    "leak-add":
+            body: "<i class='material-icons' >leak_add</i>"
+            description: "type leak-add material icon"
+            prefix: "icon-leak-add"
+
+
+    "leak-remove":
+            body: "<i class='material-icons' >leak_remove</i>"
+            description: "type leak-remove material icon"
+            prefix: "icon-leak-remove"
+
+
+    "lens":
+            body: "<i class='material-icons' >lens</i>"
+            description: "type lens material icon"
+            prefix: "icon-lens"
+
+
+    "library-add":
+            body: "<i class='material-icons' >library_add</i>"
+            description: "type library-add material icon"
+            prefix: "icon-library-add"
+
+
+    "library-books":
+            body: "<i class='material-icons' >library_books</i>"
+            description: "type library-books material icon"
+            prefix: "icon-library-books"
+
+
+    "library-music":
+            body: "<i class='material-icons' >library_music</i>"
+            description: "type library-music material icon"
+            prefix: "icon-library-music"
+
+
+    "lightbulb-outline":
+            body: "<i class='material-icons' >lightbulb_outline</i>"
+            description: "type lightbulb-outline material icon"
+            prefix: "icon-lightbulb-outline"
+
+
+    "line-style":
+            body: "<i class='material-icons' >line_style</i>"
+            description: "type line-style material icon"
+            prefix: "icon-line-style"
+
+
+    "line-weight":
+            body: "<i class='material-icons' >line_weight</i>"
+            description: "type line-weight material icon"
+            prefix: "icon-line-weight"
+
+
+    "linear-scale":
+            body: "<i class='material-icons' >linear_scale</i>"
+            description: "type linear-scale material icon"
+            prefix: "icon-linear-scale"
+
+
+    "link":
+            body: "<i class='material-icons' >link</i>"
+            description: "type link material icon"
+            prefix: "icon-link"
+
+
+    "linked-camera":
+            body: "<i class='material-icons' >linked_camera</i>"
+            description: "type linked-camera material icon"
+            prefix: "icon-linked-camera"
+
+
+    "list":
+            body: "<i class='material-icons' >list</i>"
+            description: "type list material icon"
+            prefix: "icon-list"
+
+
+    "live-help":
+            body: "<i class='material-icons' >live_help</i>"
+            description: "type live-help material icon"
+            prefix: "icon-live-help"
+
+
+    "live-tv":
+            body: "<i class='material-icons' >live_tv</i>"
+            description: "type live-tv material icon"
+            prefix: "icon-live-tv"
+
+
+    "local-activity":
+            body: "<i class='material-icons' >local_activity</i>"
+            description: "type local-activity material icon"
+            prefix: "icon-local-activity"
+
+
+    "local-airport":
+            body: "<i class='material-icons' >local_airport</i>"
+            description: "type local-airport material icon"
+            prefix: "icon-local-airport"
+
+
+    "local-atm":
+            body: "<i class='material-icons' >local_atm</i>"
+            description: "type local-atm material icon"
+            prefix: "icon-local-atm"
+
+
+    "local-bar":
+            body: "<i class='material-icons' >local_bar</i>"
+            description: "type local-bar material icon"
+            prefix: "icon-local-bar"
+
+
+    "local-cafe":
+            body: "<i class='material-icons' >local_cafe</i>"
+            description: "type local-cafe material icon"
+            prefix: "icon-local-cafe"
+
+
+    "local-car-wash":
+            body: "<i class='material-icons' >local_car_wash</i>"
+            description: "type local-car-wash material icon"
+            prefix: "icon-local-car-wash"
+
+
+    "local-convenience-store":
+            body: "<i class='material-icons' >local_convenience_store</i>"
+            description: "type local-convenience-store material icon"
+            prefix: "icon-local-convenience-store"
+
+
+    "local-dining":
+            body: "<i class='material-icons' >local_dining</i>"
+            description: "type local-dining material icon"
+            prefix: "icon-local-dining"
+
+
+    "local-drink":
+            body: "<i class='material-icons' >local_drink</i>"
+            description: "type local-drink material icon"
+            prefix: "icon-local-drink"
+
+
+    "local-florist":
+            body: "<i class='material-icons' >local_florist</i>"
+            description: "type local-florist material icon"
+            prefix: "icon-local-florist"
+
+
+    "local-gas-station":
+            body: "<i class='material-icons' >local_gas_station</i>"
+            description: "type local-gas-station material icon"
+            prefix: "icon-local-gas-station"
+
+
+    "local-grocery-store":
+            body: "<i class='material-icons' >local_grocery_store</i>"
+            description: "type local-grocery-store material icon"
+            prefix: "icon-local-grocery-store"
+
+
+    "local-hospital":
+            body: "<i class='material-icons' >local_hospital</i>"
+            description: "type local-hospital material icon"
+            prefix: "icon-local-hospital"
+
+
+    "local-hotel":
+            body: "<i class='material-icons' >local_hotel</i>"
+            description: "type local-hotel material icon"
+            prefix: "icon-local-hotel"
+
+
+    "local-laundry-service":
+            body: "<i class='material-icons' >local_laundry_service</i>"
+            description: "type local-laundry-service material icon"
+            prefix: "icon-local-laundry-service"
+
+
+    "local-library":
+            body: "<i class='material-icons' >local_library</i>"
+            description: "type local-library material icon"
+            prefix: "icon-local-library"
+
+
+    "local-mall":
+            body: "<i class='material-icons' >local_mall</i>"
+            description: "type local-mall material icon"
+            prefix: "icon-local-mall"
+
+
+    "local-movies":
+            body: "<i class='material-icons' >local_movies</i>"
+            description: "type local-movies material icon"
+            prefix: "icon-local-movies"
+
+
+    "local-offer":
+            body: "<i class='material-icons' >local_offer</i>"
+            description: "type local-offer material icon"
+            prefix: "icon-local-offer"
+
+
+    "local-parking":
+            body: "<i class='material-icons' >local_parking</i>"
+            description: "type local-parking material icon"
+            prefix: "icon-local-parking"
+
+
+    "local-pharmacy":
+            body: "<i class='material-icons' >local_pharmacy</i>"
+            description: "type local-pharmacy material icon"
+            prefix: "icon-local-pharmacy"
+
+
+    "local-phone":
+            body: "<i class='material-icons' >local_phone</i>"
+            description: "type local-phone material icon"
+            prefix: "icon-local-phone"
+
+
+    "local-pizza":
+            body: "<i class='material-icons' >local_pizza</i>"
+            description: "type local-pizza material icon"
+            prefix: "icon-local-pizza"
+
+
+    "local-play":
+            body: "<i class='material-icons' >local_play</i>"
+            description: "type local-play material icon"
+            prefix: "icon-local-play"
+
+
+    "local-post-office":
+            body: "<i class='material-icons' >local_post_office</i>"
+            description: "type local-post-office material icon"
+            prefix: "icon-local-post-office"
+
+
+    "local-printshop":
+            body: "<i class='material-icons' >local_printshop</i>"
+            description: "type local-printshop material icon"
+            prefix: "icon-local-printshop"
+
+
+    "local-see":
+            body: "<i class='material-icons' >local_see</i>"
+            description: "type local-see material icon"
+            prefix: "icon-local-see"
+
+
+    "local-shipping":
+            body: "<i class='material-icons' >local_shipping</i>"
+            description: "type local-shipping material icon"
+            prefix: "icon-local-shipping"
+
+
+    "local-taxi":
+            body: "<i class='material-icons' >local_taxi</i>"
+            description: "type local-taxi material icon"
+            prefix: "icon-local-taxi"
+
+
+    "location-city":
+            body: "<i class='material-icons' >location_city</i>"
+            description: "type location-city material icon"
+            prefix: "icon-location-city"
+
+
+    "location-disabled":
+            body: "<i class='material-icons' >location_disabled</i>"
+            description: "type location-disabled material icon"
+            prefix: "icon-location-disabled"
+
+
+    "location-off":
+            body: "<i class='material-icons' >location_off</i>"
+            description: "type location-off material icon"
+            prefix: "icon-location-off"
+
+
+    "location-on":
+            body: "<i class='material-icons' >location_on</i>"
+            description: "type location-on material icon"
+            prefix: "icon-location-on"
+
+
+    "location-searching":
+            body: "<i class='material-icons' >location_searching</i>"
+            description: "type location-searching material icon"
+            prefix: "icon-location-searching"
+
+
+    "lock":
+            body: "<i class='material-icons' >lock</i>"
+            description: "type lock material icon"
+            prefix: "icon-lock"
+
+
+    "lock-open":
+            body: "<i class='material-icons' >lock_open</i>"
+            description: "type lock-open material icon"
+            prefix: "icon-lock-open"
+
+
+    "lock-outline":
+            body: "<i class='material-icons' >lock_outline</i>"
+            description: "type lock-outline material icon"
+            prefix: "icon-lock-outline"
+
+
+    "looks":
+            body: "<i class='material-icons' >looks</i>"
+            description: "type looks material icon"
+            prefix: "icon-looks"
+
+
+    "looks-3":
+            body: "<i class='material-icons' >looks_3</i>"
+            description: "type looks-3 material icon"
+            prefix: "icon-looks-3"
+
+
+    "looks-4":
+            body: "<i class='material-icons' >looks_4</i>"
+            description: "type looks-4 material icon"
+            prefix: "icon-looks-4"
+
+
+    "looks-5":
+            body: "<i class='material-icons' >looks_5</i>"
+            description: "type looks-5 material icon"
+            prefix: "icon-looks-5"
+
+
+    "looks-6":
+            body: "<i class='material-icons' >looks_6</i>"
+            description: "type looks-6 material icon"
+            prefix: "icon-looks-6"
+
+
+    "looks-one":
+            body: "<i class='material-icons' >looks_one</i>"
+            description: "type looks-one material icon"
+            prefix: "icon-looks-one"
+
+
+    "looks-two":
+            body: "<i class='material-icons' >looks_two</i>"
+            description: "type looks-two material icon"
+            prefix: "icon-looks-two"
+
+
+    "loop":
+            body: "<i class='material-icons' >loop</i>"
+            description: "type loop material icon"
+            prefix: "icon-loop"
+
+
+    "loupe":
+            body: "<i class='material-icons' >loupe</i>"
+            description: "type loupe material icon"
+            prefix: "icon-loupe"
+
+
+    "low-priority":
+            body: "<i class='material-icons' >low_priority</i>"
+            description: "type low-priority material icon"
+            prefix: "icon-low-priority"
+
+
+    "loyalty":
+            body: "<i class='material-icons' >loyalty</i>"
+            description: "type loyalty material icon"
+            prefix: "icon-loyalty"
+
+
+    "mail":
+            body: "<i class='material-icons' >mail</i>"
+            description: "type mail material icon"
+            prefix: "icon-mail"
+
+
+    "mail-outline":
+            body: "<i class='material-icons' >mail_outline</i>"
+            description: "type mail-outline material icon"
+            prefix: "icon-mail-outline"
+
+
+    "map":
+            body: "<i class='material-icons' >map</i>"
+            description: "type map material icon"
+            prefix: "icon-map"
+
+
+    "markunread":
+            body: "<i class='material-icons' >markunread</i>"
+            description: "type markunread material icon"
+            prefix: "icon-markunread"
+
+
+    "markunread-mailbox":
+            body: "<i class='material-icons' >markunread_mailbox</i>"
+            description: "type markunread-mailbox material icon"
+            prefix: "icon-markunread-mailbox"
+
+
+    "memory":
+            body: "<i class='material-icons' >memory</i>"
+            description: "type memory material icon"
+            prefix: "icon-memory"
+
+
+    "menu":
+            body: "<i class='material-icons' >menu</i>"
+            description: "type menu material icon"
+            prefix: "icon-menu"
+
+
+    "merge-type":
+            body: "<i class='material-icons' >merge_type</i>"
+            description: "type merge-type material icon"
+            prefix: "icon-merge-type"
+
+
+    "message":
+            body: "<i class='material-icons' >message</i>"
+            description: "type message material icon"
+            prefix: "icon-message"
+
+
+    "mic":
+            body: "<i class='material-icons' >mic</i>"
+            description: "type mic material icon"
+            prefix: "icon-mic"
+
+
+    "mic-none":
+            body: "<i class='material-icons' >mic_none</i>"
+            description: "type mic-none material icon"
+            prefix: "icon-mic-none"
+
+
+    "mic-off":
+            body: "<i class='material-icons' >mic_off</i>"
+            description: "type mic-off material icon"
+            prefix: "icon-mic-off"
+
+
+    "mms":
+            body: "<i class='material-icons' >mms</i>"
+            description: "type mms material icon"
+            prefix: "icon-mms"
+
+
+    "mode-comment":
+            body: "<i class='material-icons' >mode_comment</i>"
+            description: "type mode-comment material icon"
+            prefix: "icon-mode-comment"
+
+
+    "mode-edit":
+            body: "<i class='material-icons' >mode_edit</i>"
+            description: "type mode-edit material icon"
+            prefix: "icon-mode-edit"
+
+
+    "monetization-on":
+            body: "<i class='material-icons' >monetization_on</i>"
+            description: "type monetization-on material icon"
+            prefix: "icon-monetization-on"
+
+
+    "money-off":
+            body: "<i class='material-icons' >money_off</i>"
+            description: "type money-off material icon"
+            prefix: "icon-money-off"
+
+
+    "monochrome-photos":
+            body: "<i class='material-icons' >monochrome_photos</i>"
+            description: "type monochrome-photos material icon"
+            prefix: "icon-monochrome-photos"
+
+
+    "mood":
+            body: "<i class='material-icons' >mood</i>"
+            description: "type mood material icon"
+            prefix: "icon-mood"
+
+
+    "mood-bad":
+            body: "<i class='material-icons' >mood_bad</i>"
+            description: "type mood-bad material icon"
+            prefix: "icon-mood-bad"
+
+
+    "more":
+            body: "<i class='material-icons' >more</i>"
+            description: "type more material icon"
+            prefix: "icon-more"
+
+
+    "more-horiz":
+            body: "<i class='material-icons' >more_horiz</i>"
+            description: "type more-horiz material icon"
+            prefix: "icon-more-horiz"
+
+
+    "more-vert":
+            body: "<i class='material-icons' >more_vert</i>"
+            description: "type more-vert material icon"
+            prefix: "icon-more-vert"
+
+
+    "motorcycle":
+            body: "<i class='material-icons' >motorcycle</i>"
+            description: "type motorcycle material icon"
+            prefix: "icon-motorcycle"
+
+
+    "mouse":
+            body: "<i class='material-icons' >mouse</i>"
+            description: "type mouse material icon"
+            prefix: "icon-mouse"
+
+
+    "move-to-inbox":
+            body: "<i class='material-icons' >move_to_inbox</i>"
+            description: "type move-to-inbox material icon"
+            prefix: "icon-move-to-inbox"
+
+
+    "movie":
+            body: "<i class='material-icons' >movie</i>"
+            description: "type movie material icon"
+            prefix: "icon-movie"
+
+
+    "movie-creation":
+            body: "<i class='material-icons' >movie_creation</i>"
+            description: "type movie-creation material icon"
+            prefix: "icon-movie-creation"
+
+
+    "movie-filter":
+            body: "<i class='material-icons' >movie_filter</i>"
+            description: "type movie-filter material icon"
+            prefix: "icon-movie-filter"
+
+
+    "multiline-chart":
+            body: "<i class='material-icons' >multiline_chart</i>"
+            description: "type multiline-chart material icon"
+            prefix: "icon-multiline-chart"
+
+
+    "music-note":
+            body: "<i class='material-icons' >music_note</i>"
+            description: "type music-note material icon"
+            prefix: "icon-music-note"
+
+
+    "music-video":
+            body: "<i class='material-icons' >music_video</i>"
+            description: "type music-video material icon"
+            prefix: "icon-music-video"
+
+
+    "my-location":
+            body: "<i class='material-icons' >my_location</i>"
+            description: "type my-location material icon"
+            prefix: "icon-my-location"
+
+
+    "nature":
+            body: "<i class='material-icons' >nature</i>"
+            description: "type nature material icon"
+            prefix: "icon-nature"
+
+
+    "nature-people":
+            body: "<i class='material-icons' >nature_people</i>"
+            description: "type nature-people material icon"
+            prefix: "icon-nature-people"
+
+
+    "navigate-before":
+            body: "<i class='material-icons' >navigate_before</i>"
+            description: "type navigate-before material icon"
+            prefix: "icon-navigate-before"
+
+
+    "navigate-next":
+            body: "<i class='material-icons' >navigate_next</i>"
+            description: "type navigate-next material icon"
+            prefix: "icon-navigate-next"
+
+
+    "navigation":
+            body: "<i class='material-icons' >navigation</i>"
+            description: "type navigation material icon"
+            prefix: "icon-navigation"
+
+
+    "near-me":
+            body: "<i class='material-icons' >near_me</i>"
+            description: "type near-me material icon"
+            prefix: "icon-near-me"
+
+
+    "network-cell":
+            body: "<i class='material-icons' >network_cell</i>"
+            description: "type network-cell material icon"
+            prefix: "icon-network-cell"
+
+
+    "network-check":
+            body: "<i class='material-icons' >network_check</i>"
+            description: "type network-check material icon"
+            prefix: "icon-network-check"
+
+
+    "network-locked":
+            body: "<i class='material-icons' >network_locked</i>"
+            description: "type network-locked material icon"
+            prefix: "icon-network-locked"
+
+
+    "network-wifi":
+            body: "<i class='material-icons' >network_wifi</i>"
+            description: "type network-wifi material icon"
+            prefix: "icon-network-wifi"
+
+
+    "new-releases":
+            body: "<i class='material-icons' >new_releases</i>"
+            description: "type new-releases material icon"
+            prefix: "icon-new-releases"
+
+
+    "next-week":
+            body: "<i class='material-icons' >next_week</i>"
+            description: "type next-week material icon"
+            prefix: "icon-next-week"
+
+
+    "nfc":
+            body: "<i class='material-icons' >nfc</i>"
+            description: "type nfc material icon"
+            prefix: "icon-nfc"
+
+
+    "no-encryption":
+            body: "<i class='material-icons' >no_encryption</i>"
+            description: "type no-encryption material icon"
+            prefix: "icon-no-encryption"
+
+
+    "no-sim":
+            body: "<i class='material-icons' >no_sim</i>"
+            description: "type no-sim material icon"
+            prefix: "icon-no-sim"
+
+
+    "not-interested":
+            body: "<i class='material-icons' >not_interested</i>"
+            description: "type not-interested material icon"
+            prefix: "icon-not-interested"
+
+
+    "note":
+            body: "<i class='material-icons' >note</i>"
+            description: "type note material icon"
+            prefix: "icon-note"
+
+
+    "note-add":
+            body: "<i class='material-icons' >note_add</i>"
+            description: "type note-add material icon"
+            prefix: "icon-note-add"
+
+
+    "notifications":
+            body: "<i class='material-icons' >notifications</i>"
+            description: "type notifications material icon"
+            prefix: "icon-notifications"
+
+
+    "notifications-active":
+            body: "<i class='material-icons' >notifications_active</i>"
+            description: "type notifications-active material icon"
+            prefix: "icon-notifications-active"
+
+
+    "notifications-none":
+            body: "<i class='material-icons' >notifications_none</i>"
+            description: "type notifications-none material icon"
+            prefix: "icon-notifications-none"
+
+
+    "notifications-off":
+            body: "<i class='material-icons' >notifications_off</i>"
+            description: "type notifications-off material icon"
+            prefix: "icon-notifications-off"
+
+
+    "notifications-paused":
+            body: "<i class='material-icons' >notifications_paused</i>"
+            description: "type notifications-paused material icon"
+            prefix: "icon-notifications-paused"
+
+
+    "offline-pin":
+            body: "<i class='material-icons' >offline_pin</i>"
+            description: "type offline-pin material icon"
+            prefix: "icon-offline-pin"
+
+
+    "ondemand-video":
+            body: "<i class='material-icons' >ondemand_video</i>"
+            description: "type ondemand-video material icon"
+            prefix: "icon-ondemand-video"
+
+
+    "opacity":
+            body: "<i class='material-icons' >opacity</i>"
+            description: "type opacity material icon"
+            prefix: "icon-opacity"
+
+
+    "open-in-browser":
+            body: "<i class='material-icons' >open_in_browser</i>"
+            description: "type open-in-browser material icon"
+            prefix: "icon-open-in-browser"
+
+
+    "open-in-new":
+            body: "<i class='material-icons' >open_in_new</i>"
+            description: "type open-in-new material icon"
+            prefix: "icon-open-in-new"
+
+
+    "open-with":
+            body: "<i class='material-icons' >open_with</i>"
+            description: "type open-with material icon"
+            prefix: "icon-open-with"
+
+
+    "pages":
+            body: "<i class='material-icons' >pages</i>"
+            description: "type pages material icon"
+            prefix: "icon-pages"
+
+
+    "pageview":
+            body: "<i class='material-icons' >pageview</i>"
+            description: "type pageview material icon"
+            prefix: "icon-pageview"
+
+
+    "palette":
+            body: "<i class='material-icons' >palette</i>"
+            description: "type palette material icon"
+            prefix: "icon-palette"
+
+
+    "pan-tool":
+            body: "<i class='material-icons' >pan_tool</i>"
+            description: "type pan-tool material icon"
+            prefix: "icon-pan-tool"
+
+
+    "panorama":
+            body: "<i class='material-icons' >panorama</i>"
+            description: "type panorama material icon"
+            prefix: "icon-panorama"
+
+
+    "panorama-fish-eye":
+            body: "<i class='material-icons' >panorama_fish_eye</i>"
+            description: "type panorama-fish-eye material icon"
+            prefix: "icon-panorama-fish-eye"
+
+
+    "panorama-horizontal":
+            body: "<i class='material-icons' >panorama_horizontal</i>"
+            description: "type panorama-horizontal material icon"
+            prefix: "icon-panorama-horizontal"
+
+
+    "panorama-vertical":
+            body: "<i class='material-icons' >panorama_vertical</i>"
+            description: "type panorama-vertical material icon"
+            prefix: "icon-panorama-vertical"
+
+
+    "panorama-wide-angle":
+            body: "<i class='material-icons' >panorama_wide_angle</i>"
+            description: "type panorama-wide-angle material icon"
+            prefix: "icon-panorama-wide-angle"
+
+
+    "party-mode":
+            body: "<i class='material-icons' >party_mode</i>"
+            description: "type party-mode material icon"
+            prefix: "icon-party-mode"
+
+
+    "pause":
+            body: "<i class='material-icons' >pause</i>"
+            description: "type pause material icon"
+            prefix: "icon-pause"
+
+
+    "pause-circle-filled":
+            body: "<i class='material-icons' >pause_circle_filled</i>"
+            description: "type pause-circle-filled material icon"
+            prefix: "icon-pause-circle-filled"
+
+
+    "pause-circle-outline":
+            body: "<i class='material-icons' >pause_circle_outline</i>"
+            description: "type pause-circle-outline material icon"
+            prefix: "icon-pause-circle-outline"
+
+
+    "payment":
+            body: "<i class='material-icons' >payment</i>"
+            description: "type payment material icon"
+            prefix: "icon-payment"
+
+
+    "people":
+            body: "<i class='material-icons' >people</i>"
+            description: "type people material icon"
+            prefix: "icon-people"
+
+
+    "people-outline":
+            body: "<i class='material-icons' >people_outline</i>"
+            description: "type people-outline material icon"
+            prefix: "icon-people-outline"
+
+
+    "perm-camera-mic":
+            body: "<i class='material-icons' >perm_camera_mic</i>"
+            description: "type perm-camera-mic material icon"
+            prefix: "icon-perm-camera-mic"
+
+
+    "perm-contact-calendar":
+            body: "<i class='material-icons' >perm_contact_calendar</i>"
+            description: "type perm-contact-calendar material icon"
+            prefix: "icon-perm-contact-calendar"
+
+
+    "perm-data-setting":
+            body: "<i class='material-icons' >perm_data_setting</i>"
+            description: "type perm-data-setting material icon"
+            prefix: "icon-perm-data-setting"
+
+
+    "perm-device-information":
+            body: "<i class='material-icons' >perm_device_information</i>"
+            description: "type perm-device-information material icon"
+            prefix: "icon-perm-device-information"
+
+
+    "perm-identity":
+            body: "<i class='material-icons' >perm_identity</i>"
+            description: "type perm-identity material icon"
+            prefix: "icon-perm-identity"
+
+
+    "perm-media":
+            body: "<i class='material-icons' >perm_media</i>"
+            description: "type perm-media material icon"
+            prefix: "icon-perm-media"
+
+
+    "perm-phone-msg":
+            body: "<i class='material-icons' >perm_phone_msg</i>"
+            description: "type perm-phone-msg material icon"
+            prefix: "icon-perm-phone-msg"
+
+
+    "perm-scan-wifi":
+            body: "<i class='material-icons' >perm_scan_wifi</i>"
+            description: "type perm-scan-wifi material icon"
+            prefix: "icon-perm-scan-wifi"
+
+
+    "person":
+            body: "<i class='material-icons' >person</i>"
+            description: "type person material icon"
+            prefix: "icon-person"
+
+
+    "person-add":
+            body: "<i class='material-icons' >person_add</i>"
+            description: "type person-add material icon"
+            prefix: "icon-person-add"
+
+
+    "person-outline":
+            body: "<i class='material-icons' >person_outline</i>"
+            description: "type person-outline material icon"
+            prefix: "icon-person-outline"
+
+
+    "person-pin":
+            body: "<i class='material-icons' >person_pin</i>"
+            description: "type person-pin material icon"
+            prefix: "icon-person-pin"
+
+
+    "person-pin-circle":
+            body: "<i class='material-icons' >person_pin_circle</i>"
+            description: "type person-pin-circle material icon"
+            prefix: "icon-person-pin-circle"
+
+
+    "personal-video":
+            body: "<i class='material-icons' >personal_video</i>"
+            description: "type personal-video material icon"
+            prefix: "icon-personal-video"
+
+
+    "pets":
+            body: "<i class='material-icons' >pets</i>"
+            description: "type pets material icon"
+            prefix: "icon-pets"
+
+
+    "phone":
+            body: "<i class='material-icons' >phone</i>"
+            description: "type phone material icon"
+            prefix: "icon-phone"
+
+
+    "phone-android":
+            body: "<i class='material-icons' >phone_android</i>"
+            description: "type phone-android material icon"
+            prefix: "icon-phone-android"
+
+
+    "phone-bluetooth-speaker":
+            body: "<i class='material-icons' >phone_bluetooth_speaker</i>"
+            description: "type phone-bluetooth-speaker material icon"
+            prefix: "icon-phone-bluetooth-speaker"
+
+
+    "phone-forwarded":
+            body: "<i class='material-icons' >phone_forwarded</i>"
+            description: "type phone-forwarded material icon"
+            prefix: "icon-phone-forwarded"
+
+
+    "phone-in-talk":
+            body: "<i class='material-icons' >phone_in_talk</i>"
+            description: "type phone-in-talk material icon"
+            prefix: "icon-phone-in-talk"
+
+
+    "phone-iphone":
+            body: "<i class='material-icons' >phone_iphone</i>"
+            description: "type phone-iphone material icon"
+            prefix: "icon-phone-iphone"
+
+
+    "phone-locked":
+            body: "<i class='material-icons' >phone_locked</i>"
+            description: "type phone-locked material icon"
+            prefix: "icon-phone-locked"
+
+
+    "phone-missed":
+            body: "<i class='material-icons' >phone_missed</i>"
+            description: "type phone-missed material icon"
+            prefix: "icon-phone-missed"
+
+
+    "phone-paused":
+            body: "<i class='material-icons' >phone_paused</i>"
+            description: "type phone-paused material icon"
+            prefix: "icon-phone-paused"
+
+
+    "phonelink":
+            body: "<i class='material-icons' >phonelink</i>"
+            description: "type phonelink material icon"
+            prefix: "icon-phonelink"
+
+
+    "phonelink-erase":
+            body: "<i class='material-icons' >phonelink_erase</i>"
+            description: "type phonelink-erase material icon"
+            prefix: "icon-phonelink-erase"
+
+
+    "phonelink-lock":
+            body: "<i class='material-icons' >phonelink_lock</i>"
+            description: "type phonelink-lock material icon"
+            prefix: "icon-phonelink-lock"
+
+
+    "phonelink-off":
+            body: "<i class='material-icons' >phonelink_off</i>"
+            description: "type phonelink-off material icon"
+            prefix: "icon-phonelink-off"
+
+
+    "phonelink-ring":
+            body: "<i class='material-icons' >phonelink_ring</i>"
+            description: "type phonelink-ring material icon"
+            prefix: "icon-phonelink-ring"
+
+
+    "phonelink-setup":
+            body: "<i class='material-icons' >phonelink_setup</i>"
+            description: "type phonelink-setup material icon"
+            prefix: "icon-phonelink-setup"
+
+
+    "photo":
+            body: "<i class='material-icons' >photo</i>"
+            description: "type photo material icon"
+            prefix: "icon-photo"
+
+
+    "photo-album":
+            body: "<i class='material-icons' >photo_album</i>"
+            description: "type photo-album material icon"
+            prefix: "icon-photo-album"
+
+
+    "photo-camera":
+            body: "<i class='material-icons' >photo_camera</i>"
+            description: "type photo-camera material icon"
+            prefix: "icon-photo-camera"
+
+
+    "photo-filter":
+            body: "<i class='material-icons' >photo_filter</i>"
+            description: "type photo-filter material icon"
+            prefix: "icon-photo-filter"
+
+
+    "photo-library":
+            body: "<i class='material-icons' >photo_library</i>"
+            description: "type photo-library material icon"
+            prefix: "icon-photo-library"
+
+
+    "photo-size-select-actual":
+            body: "<i class='material-icons' >photo_size_select_actual</i>"
+            description: "type photo-size-select-actual material icon"
+            prefix: "icon-photo-size-select-actual"
+
+
+    "photo-size-select-large":
+            body: "<i class='material-icons' >photo_size_select_large</i>"
+            description: "type photo-size-select-large material icon"
+            prefix: "icon-photo-size-select-large"
+
+
+    "photo-size-select-small":
+            body: "<i class='material-icons' >photo_size_select_small</i>"
+            description: "type photo-size-select-small material icon"
+            prefix: "icon-photo-size-select-small"
+
+
+    "picture-as-pdf":
+            body: "<i class='material-icons' >picture_as_pdf</i>"
+            description: "type picture-as-pdf material icon"
+            prefix: "icon-picture-as-pdf"
+
+
+    "picture-in-picture":
+            body: "<i class='material-icons' >picture_in_picture</i>"
+            description: "type picture-in-picture material icon"
+            prefix: "icon-picture-in-picture"
+
+
+    "picture-in-picture-alt":
+            body: "<i class='material-icons' >picture_in_picture_alt</i>"
+            description: "type picture-in-picture-alt material icon"
+            prefix: "icon-picture-in-picture-alt"
+
+
+    "pie-chart":
+            body: "<i class='material-icons' >pie_chart</i>"
+            description: "type pie-chart material icon"
+            prefix: "icon-pie-chart"
+
+
+    "pie-chart-outlined":
+            body: "<i class='material-icons' >pie_chart_outlined</i>"
+            description: "type pie-chart-outlined material icon"
+            prefix: "icon-pie-chart-outlined"
+
+
+    "pin-drop":
+            body: "<i class='material-icons' >pin_drop</i>"
+            description: "type pin-drop material icon"
+            prefix: "icon-pin-drop"
+
+
+    "place":
+            body: "<i class='material-icons' >place</i>"
+            description: "type place material icon"
+            prefix: "icon-place"
+
+
+    "play-arrow":
+            body: "<i class='material-icons' >play_arrow</i>"
+            description: "type play-arrow material icon"
+            prefix: "icon-play-arrow"
+
+
+    "play-circle-filled":
+            body: "<i class='material-icons' >play_circle_filled</i>"
+            description: "type play-circle-filled material icon"
+            prefix: "icon-play-circle-filled"
+
+
+    "play-circle-outline":
+            body: "<i class='material-icons' >play_circle_outline</i>"
+            description: "type play-circle-outline material icon"
+            prefix: "icon-play-circle-outline"
+
+
+    "play-for-work":
+            body: "<i class='material-icons' >play_for_work</i>"
+            description: "type play-for-work material icon"
+            prefix: "icon-play-for-work"
+
+
+    "playlist-add":
+            body: "<i class='material-icons' >playlist_add</i>"
+            description: "type playlist-add material icon"
+            prefix: "icon-playlist-add"
+
+
+    "playlist-add-check":
+            body: "<i class='material-icons' >playlist_add_check</i>"
+            description: "type playlist-add-check material icon"
+            prefix: "icon-playlist-add-check"
+
+
+    "playlist-play":
+            body: "<i class='material-icons' >playlist_play</i>"
+            description: "type playlist-play material icon"
+            prefix: "icon-playlist-play"
+
+
+    "plus-one":
+            body: "<i class='material-icons' >plus_one</i>"
+            description: "type plus-one material icon"
+            prefix: "icon-plus-one"
+
+
+    "poll":
+            body: "<i class='material-icons' >poll</i>"
+            description: "type poll material icon"
+            prefix: "icon-poll"
+
+
+    "polymer":
+            body: "<i class='material-icons' >polymer</i>"
+            description: "type polymer material icon"
+            prefix: "icon-polymer"
+
+
+    "pool":
+            body: "<i class='material-icons' >pool</i>"
+            description: "type pool material icon"
+            prefix: "icon-pool"
+
+
+    "portable-wifi-off":
+            body: "<i class='material-icons' >portable_wifi_off</i>"
+            description: "type portable-wifi-off material icon"
+            prefix: "icon-portable-wifi-off"
+
+
+    "portrait":
+            body: "<i class='material-icons' >portrait</i>"
+            description: "type portrait material icon"
+            prefix: "icon-portrait"
+
+
+    "power":
+            body: "<i class='material-icons' >power</i>"
+            description: "type power material icon"
+            prefix: "icon-power"
+
+
+    "power-input":
+            body: "<i class='material-icons' >power_input</i>"
+            description: "type power-input material icon"
+            prefix: "icon-power-input"
+
+
+    "power-settings-new":
+            body: "<i class='material-icons' >power_settings_new</i>"
+            description: "type power-settings-new material icon"
+            prefix: "icon-power-settings-new"
+
+
+    "pregnant-woman":
+            body: "<i class='material-icons' >pregnant_woman</i>"
+            description: "type pregnant-woman material icon"
+            prefix: "icon-pregnant-woman"
+
+
+    "present-to-all":
+            body: "<i class='material-icons' >present_to_all</i>"
+            description: "type present-to-all material icon"
+            prefix: "icon-present-to-all"
+
+
+    "print":
+            body: "<i class='material-icons' >print</i>"
+            description: "type print material icon"
+            prefix: "icon-print"
+
+
+    "priority-high":
+            body: "<i class='material-icons' >priority_high</i>"
+            description: "type priority-high material icon"
+            prefix: "icon-priority-high"
+
+
+    "public":
+            body: "<i class='material-icons' >public</i>"
+            description: "type public material icon"
+            prefix: "icon-public"
+
+
+    "publish":
+            body: "<i class='material-icons' >publish</i>"
+            description: "type publish material icon"
+            prefix: "icon-publish"
+
+
+    "query-builder":
+            body: "<i class='material-icons' >query_builder</i>"
+            description: "type query-builder material icon"
+            prefix: "icon-query-builder"
+
+
+    "question-answer":
+            body: "<i class='material-icons' >question_answer</i>"
+            description: "type question-answer material icon"
+            prefix: "icon-question-answer"
+
+
+    "queue":
+            body: "<i class='material-icons' >queue</i>"
+            description: "type queue material icon"
+            prefix: "icon-queue"
+
+
+    "queue-music":
+            body: "<i class='material-icons' >queue_music</i>"
+            description: "type queue-music material icon"
+            prefix: "icon-queue-music"
+
+
+    "queue-play-next":
+            body: "<i class='material-icons' >queue_play_next</i>"
+            description: "type queue-play-next material icon"
+            prefix: "icon-queue-play-next"
+
+
+    "radio":
+            body: "<i class='material-icons' >radio</i>"
+            description: "type radio material icon"
+            prefix: "icon-radio"
+
+
+    "radio-button-checked":
+            body: "<i class='material-icons' >radio_button_checked</i>"
+            description: "type radio-button-checked material icon"
+            prefix: "icon-radio-button-checked"
+
+
+    "radio-button-unchecked":
+            body: "<i class='material-icons' >radio_button_unchecked</i>"
+            description: "type radio-button-unchecked material icon"
+            prefix: "icon-radio-button-unchecked"
+
+
+    "rate-review":
+            body: "<i class='material-icons' >rate_review</i>"
+            description: "type rate-review material icon"
+            prefix: "icon-rate-review"
+
+
+    "receipt":
+            body: "<i class='material-icons' >receipt</i>"
+            description: "type receipt material icon"
+            prefix: "icon-receipt"
+
+
+    "recent-actors":
+            body: "<i class='material-icons' >recent_actors</i>"
+            description: "type recent-actors material icon"
+            prefix: "icon-recent-actors"
+
+
+    "record-voice-over":
+            body: "<i class='material-icons' >record_voice_over</i>"
+            description: "type record-voice-over material icon"
+            prefix: "icon-record-voice-over"
+
+
+    "redeem":
+            body: "<i class='material-icons' >redeem</i>"
+            description: "type redeem material icon"
+            prefix: "icon-redeem"
+
+
+    "redo":
+            body: "<i class='material-icons' >redo</i>"
+            description: "type redo material icon"
+            prefix: "icon-redo"
+
+
+    "refresh":
+            body: "<i class='material-icons' >refresh</i>"
+            description: "type refresh material icon"
+            prefix: "icon-refresh"
+
+
+    "remove":
+            body: "<i class='material-icons' >remove</i>"
+            description: "type remove material icon"
+            prefix: "icon-remove"
+
+
+    "remove-circle":
+            body: "<i class='material-icons' >remove_circle</i>"
+            description: "type remove-circle material icon"
+            prefix: "icon-remove-circle"
+
+
+    "remove-circle-outline":
+            body: "<i class='material-icons' >remove_circle_outline</i>"
+            description: "type remove-circle-outline material icon"
+            prefix: "icon-remove-circle-outline"
+
+
+    "remove-from-queue":
+            body: "<i class='material-icons' >remove_from_queue</i>"
+            description: "type remove-from-queue material icon"
+            prefix: "icon-remove-from-queue"
+
+
+    "remove-red-eye":
+            body: "<i class='material-icons' >remove_red_eye</i>"
+            description: "type remove-red-eye material icon"
+            prefix: "icon-remove-red-eye"
+
+
+    "remove-shopping-cart":
+            body: "<i class='material-icons' >remove_shopping_cart</i>"
+            description: "type remove-shopping-cart material icon"
+            prefix: "icon-remove-shopping-cart"
+
+
+    "reorder":
+            body: "<i class='material-icons' >reorder</i>"
+            description: "type reorder material icon"
+            prefix: "icon-reorder"
+
+
+    "repeat":
+            body: "<i class='material-icons' >repeat</i>"
+            description: "type repeat material icon"
+            prefix: "icon-repeat"
+
+
+    "repeat-one":
+            body: "<i class='material-icons' >repeat_one</i>"
+            description: "type repeat-one material icon"
+            prefix: "icon-repeat-one"
+
+
+    "replay":
+            body: "<i class='material-icons' >replay</i>"
+            description: "type replay material icon"
+            prefix: "icon-replay"
+
+
+    "replay-10":
+            body: "<i class='material-icons' >replay_10</i>"
+            description: "type replay-10 material icon"
+            prefix: "icon-replay-10"
+
+
+    "replay-30":
+            body: "<i class='material-icons' >replay_30</i>"
+            description: "type replay-30 material icon"
+            prefix: "icon-replay-30"
+
+
+    "replay-5":
+            body: "<i class='material-icons' >replay_5</i>"
+            description: "type replay-5 material icon"
+            prefix: "icon-replay-5"
+
+
+    "reply":
+            body: "<i class='material-icons' >reply</i>"
+            description: "type reply material icon"
+            prefix: "icon-reply"
+
+
+    "reply-all":
+            body: "<i class='material-icons' >reply_all</i>"
+            description: "type reply-all material icon"
+            prefix: "icon-reply-all"
+
+
+    "report":
+            body: "<i class='material-icons' >report</i>"
+            description: "type report material icon"
+            prefix: "icon-report"
+
+
+    "report-problem":
+            body: "<i class='material-icons' >report_problem</i>"
+            description: "type report-problem material icon"
+            prefix: "icon-report-problem"
+
+
+    "restaurant":
+            body: "<i class='material-icons' >restaurant</i>"
+            description: "type restaurant material icon"
+            prefix: "icon-restaurant"
+
+
+    "restaurant-menu":
+            body: "<i class='material-icons' >restaurant_menu</i>"
+            description: "type restaurant-menu material icon"
+            prefix: "icon-restaurant-menu"
+
+
+    "restore":
+            body: "<i class='material-icons' >restore</i>"
+            description: "type restore material icon"
+            prefix: "icon-restore"
+
+
+    "restore-page":
+            body: "<i class='material-icons' >restore_page</i>"
+            description: "type restore-page material icon"
+            prefix: "icon-restore-page"
+
+
+    "ring-volume":
+            body: "<i class='material-icons' >ring_volume</i>"
+            description: "type ring-volume material icon"
+            prefix: "icon-ring-volume"
+
+
+    "room":
+            body: "<i class='material-icons' >room</i>"
+            description: "type room material icon"
+            prefix: "icon-room"
+
+
+    "room-service":
+            body: "<i class='material-icons' >room_service</i>"
+            description: "type room-service material icon"
+            prefix: "icon-room-service"
+
+
+    "rotate-90-degrees-ccw":
+            body: "<i class='material-icons' >rotate_90_degrees_ccw</i>"
+            description: "type rotate-90-degrees-ccw material icon"
+            prefix: "icon-rotate-90-degrees-ccw"
+
+
+    "rotate-left":
+            body: "<i class='material-icons' >rotate_left</i>"
+            description: "type rotate-left material icon"
+            prefix: "icon-rotate-left"
+
+
+    "rotate-right":
+            body: "<i class='material-icons' >rotate_right</i>"
+            description: "type rotate-right material icon"
+            prefix: "icon-rotate-right"
+
+
+    "rounded-corner":
+            body: "<i class='material-icons' >rounded_corner</i>"
+            description: "type rounded-corner material icon"
+            prefix: "icon-rounded-corner"
+
+
+    "router":
+            body: "<i class='material-icons' >router</i>"
+            description: "type router material icon"
+            prefix: "icon-router"
+
+
+    "rowing":
+            body: "<i class='material-icons' >rowing</i>"
+            description: "type rowing material icon"
+            prefix: "icon-rowing"
+
+
+    "rss-feed":
+            body: "<i class='material-icons' >rss_feed</i>"
+            description: "type rss-feed material icon"
+            prefix: "icon-rss-feed"
+
+
+    "rv-hookup":
+            body: "<i class='material-icons' >rv_hookup</i>"
+            description: "type rv-hookup material icon"
+            prefix: "icon-rv-hookup"
+
+
+    "satellite":
+            body: "<i class='material-icons' >satellite</i>"
+            description: "type satellite material icon"
+            prefix: "icon-satellite"
+
+
+    "save":
+            body: "<i class='material-icons' >save</i>"
+            description: "type save material icon"
+            prefix: "icon-save"
+
+
+    "scanner":
+            body: "<i class='material-icons' >scanner</i>"
+            description: "type scanner material icon"
+            prefix: "icon-scanner"
+
+
+    "schedule":
+            body: "<i class='material-icons' >schedule</i>"
+            description: "type schedule material icon"
+            prefix: "icon-schedule"
+
+
+    "school":
+            body: "<i class='material-icons' >school</i>"
+            description: "type school material icon"
+            prefix: "icon-school"
+
+
+    "screen-lock-landscape":
+            body: "<i class='material-icons' >screen_lock_landscape</i>"
+            description: "type screen-lock-landscape material icon"
+            prefix: "icon-screen-lock-landscape"
+
+
+    "screen-lock-portrait":
+            body: "<i class='material-icons' >screen_lock_portrait</i>"
+            description: "type screen-lock-portrait material icon"
+            prefix: "icon-screen-lock-portrait"
+
+
+    "screen-lock-rotation":
+            body: "<i class='material-icons' >screen_lock_rotation</i>"
+            description: "type screen-lock-rotation material icon"
+            prefix: "icon-screen-lock-rotation"
+
+
+    "screen-rotation":
+            body: "<i class='material-icons' >screen_rotation</i>"
+            description: "type screen-rotation material icon"
+            prefix: "icon-screen-rotation"
+
+
+    "screen-share":
+            body: "<i class='material-icons' >screen_share</i>"
+            description: "type screen-share material icon"
+            prefix: "icon-screen-share"
+
+
+    "sd-card":
+            body: "<i class='material-icons' >sd_card</i>"
+            description: "type sd-card material icon"
+            prefix: "icon-sd-card"
+
+
+    "sd-storage":
+            body: "<i class='material-icons' >sd_storage</i>"
+            description: "type sd-storage material icon"
+            prefix: "icon-sd-storage"
+
+
+    "search":
+            body: "<i class='material-icons' >search</i>"
+            description: "type search material icon"
+            prefix: "icon-search"
+
+
+    "security":
+            body: "<i class='material-icons' >security</i>"
+            description: "type security material icon"
+            prefix: "icon-security"
+
+
+    "select-all":
+            body: "<i class='material-icons' >select_all</i>"
+            description: "type select-all material icon"
+            prefix: "icon-select-all"
+
+
+    "send":
+            body: "<i class='material-icons' >send</i>"
+            description: "type send material icon"
+            prefix: "icon-send"
+
+
+    "sentiment-dissatisfied":
+            body: "<i class='material-icons' >sentiment_dissatisfied</i>"
+            description: "type sentiment-dissatisfied material icon"
+            prefix: "icon-sentiment-dissatisfied"
+
+
+    "sentiment-neutral":
+            body: "<i class='material-icons' >sentiment_neutral</i>"
+            description: "type sentiment-neutral material icon"
+            prefix: "icon-sentiment-neutral"
+
+
+    "sentiment-satisfied":
+            body: "<i class='material-icons' >sentiment_satisfied</i>"
+            description: "type sentiment-satisfied material icon"
+            prefix: "icon-sentiment-satisfied"
+
+
+    "sentiment-very-dissatisfied":
+            body: "<i class='material-icons' >sentiment_very_dissatisfied</i>"
+            description: "type sentiment-very-dissatisfied material icon"
+            prefix: "icon-sentiment-very-dissatisfied"
+
+
+    "sentiment-very-satisfied":
+            body: "<i class='material-icons' >sentiment_very_satisfied</i>"
+            description: "type sentiment-very-satisfied material icon"
+            prefix: "icon-sentiment-very-satisfied"
+
+
+    "settings":
+            body: "<i class='material-icons' >settings</i>"
+            description: "type settings material icon"
+            prefix: "icon-settings"
+
+
+    "settings-applications":
+            body: "<i class='material-icons' >settings_applications</i>"
+            description: "type settings-applications material icon"
+            prefix: "icon-settings-applications"
+
+
+    "settings-backup-restore":
+            body: "<i class='material-icons' >settings_backup_restore</i>"
+            description: "type settings-backup-restore material icon"
+            prefix: "icon-settings-backup-restore"
+
+
+    "settings-bluetooth":
+            body: "<i class='material-icons' >settings_bluetooth</i>"
+            description: "type settings-bluetooth material icon"
+            prefix: "icon-settings-bluetooth"
+
+
+    "settings-brightness":
+            body: "<i class='material-icons' >settings_brightness</i>"
+            description: "type settings-brightness material icon"
+            prefix: "icon-settings-brightness"
+
+
+    "settings-cell":
+            body: "<i class='material-icons' >settings_cell</i>"
+            description: "type settings-cell material icon"
+            prefix: "icon-settings-cell"
+
+
+    "settings-ethernet":
+            body: "<i class='material-icons' >settings_ethernet</i>"
+            description: "type settings-ethernet material icon"
+            prefix: "icon-settings-ethernet"
+
+
+    "settings-input-antenna":
+            body: "<i class='material-icons' >settings_input_antenna</i>"
+            description: "type settings-input-antenna material icon"
+            prefix: "icon-settings-input-antenna"
+
+
+    "settings-input-component":
+            body: "<i class='material-icons' >settings_input_component</i>"
+            description: "type settings-input-component material icon"
+            prefix: "icon-settings-input-component"
+
+
+    "settings-input-composite":
+            body: "<i class='material-icons' >settings_input_composite</i>"
+            description: "type settings-input-composite material icon"
+            prefix: "icon-settings-input-composite"
+
+
+    "settings-input-hdmi":
+            body: "<i class='material-icons' >settings_input_hdmi</i>"
+            description: "type settings-input-hdmi material icon"
+            prefix: "icon-settings-input-hdmi"
+
+
+    "settings-input-svideo":
+            body: "<i class='material-icons' >settings_input_svideo</i>"
+            description: "type settings-input-svideo material icon"
+            prefix: "icon-settings-input-svideo"
+
+
+    "settings-overscan":
+            body: "<i class='material-icons' >settings_overscan</i>"
+            description: "type settings-overscan material icon"
+            prefix: "icon-settings-overscan"
+
+
+    "settings-phone":
+            body: "<i class='material-icons' >settings_phone</i>"
+            description: "type settings-phone material icon"
+            prefix: "icon-settings-phone"
+
+
+    "settings-power":
+            body: "<i class='material-icons' >settings_power</i>"
+            description: "type settings-power material icon"
+            prefix: "icon-settings-power"
+
+
+    "settings-remote":
+            body: "<i class='material-icons' >settings_remote</i>"
+            description: "type settings-remote material icon"
+            prefix: "icon-settings-remote"
+
+
+    "settings-system-daydream":
+            body: "<i class='material-icons' >settings_system_daydream</i>"
+            description: "type settings-system-daydream material icon"
+            prefix: "icon-settings-system-daydream"
+
+
+    "settings-voice":
+            body: "<i class='material-icons' >settings_voice</i>"
+            description: "type settings-voice material icon"
+            prefix: "icon-settings-voice"
+
+
+    "share":
+            body: "<i class='material-icons' >share</i>"
+            description: "type share material icon"
+            prefix: "icon-share"
+
+
+    "shop":
+            body: "<i class='material-icons' >shop</i>"
+            description: "type shop material icon"
+            prefix: "icon-shop"
+
+
+    "shop-two":
+            body: "<i class='material-icons' >shop_two</i>"
+            description: "type shop-two material icon"
+            prefix: "icon-shop-two"
+
+
+    "shopping-basket":
+            body: "<i class='material-icons' >shopping_basket</i>"
+            description: "type shopping-basket material icon"
+            prefix: "icon-shopping-basket"
+
+
+    "shopping-cart":
+            body: "<i class='material-icons' >shopping_cart</i>"
+            description: "type shopping-cart material icon"
+            prefix: "icon-shopping-cart"
+
+
+    "short-text":
+            body: "<i class='material-icons' >short_text</i>"
+            description: "type short-text material icon"
+            prefix: "icon-short-text"
+
+
+    "show-chart":
+            body: "<i class='material-icons' >show_chart</i>"
+            description: "type show-chart material icon"
+            prefix: "icon-show-chart"
+
+
+    "shuffle":
+            body: "<i class='material-icons' >shuffle</i>"
+            description: "type shuffle material icon"
+            prefix: "icon-shuffle"
+
+
+    "signal-cellular-4-bar":
+            body: "<i class='material-icons' >signal_cellular_4_bar</i>"
+            description: "type signal-cellular-4-bar material icon"
+            prefix: "icon-signal-cellular-4-bar"
+
+
+    "signal-cellular-connected-no-internet-4-bar":
+            body: "<i class='material-icons' >signal_cellular_connected_no_internet_4_bar</i>"
+            description: "type signal-cellular-connected-no-internet-4-bar material icon"
+            prefix: "icon-signal-cellular-connected-no-internet-4-bar"
+
+
+    "signal-cellular-no-sim":
+            body: "<i class='material-icons' >signal_cellular_no_sim</i>"
+            description: "type signal-cellular-no-sim material icon"
+            prefix: "icon-signal-cellular-no-sim"
+
+
+    "signal-cellular-null":
+            body: "<i class='material-icons' >signal_cellular_null</i>"
+            description: "type signal-cellular-null material icon"
+            prefix: "icon-signal-cellular-null"
+
+
+    "signal-cellular-off":
+            body: "<i class='material-icons' >signal_cellular_off</i>"
+            description: "type signal-cellular-off material icon"
+            prefix: "icon-signal-cellular-off"
+
+
+    "signal-wifi-4-bar":
+            body: "<i class='material-icons' >signal_wifi_4_bar</i>"
+            description: "type signal-wifi-4-bar material icon"
+            prefix: "icon-signal-wifi-4-bar"
+
+
+    "signal-wifi-4-bar-lock":
+            body: "<i class='material-icons' >signal_wifi_4_bar_lock</i>"
+            description: "type signal-wifi-4-bar-lock material icon"
+            prefix: "icon-signal-wifi-4-bar-lock"
+
+
+    "signal-wifi-off":
+            body: "<i class='material-icons' >signal_wifi_off</i>"
+            description: "type signal-wifi-off material icon"
+            prefix: "icon-signal-wifi-off"
+
+
+    "sim-card":
+            body: "<i class='material-icons' >sim_card</i>"
+            description: "type sim-card material icon"
+            prefix: "icon-sim-card"
+
+
+    "sim-card-alert":
+            body: "<i class='material-icons' >sim_card_alert</i>"
+            description: "type sim-card-alert material icon"
+            prefix: "icon-sim-card-alert"
+
+
+    "skip-next":
+            body: "<i class='material-icons' >skip_next</i>"
+            description: "type skip-next material icon"
+            prefix: "icon-skip-next"
+
+
+    "skip-previous":
+            body: "<i class='material-icons' >skip_previous</i>"
+            description: "type skip-previous material icon"
+            prefix: "icon-skip-previous"
+
+
+    "slideshow":
+            body: "<i class='material-icons' >slideshow</i>"
+            description: "type slideshow material icon"
+            prefix: "icon-slideshow"
+
+
+    "slow-motion-video":
+            body: "<i class='material-icons' >slow_motion_video</i>"
+            description: "type slow-motion-video material icon"
+            prefix: "icon-slow-motion-video"
+
+
+    "smartphone":
+            body: "<i class='material-icons' >smartphone</i>"
+            description: "type smartphone material icon"
+            prefix: "icon-smartphone"
+
+
+    "smoke-free":
+            body: "<i class='material-icons' >smoke_free</i>"
+            description: "type smoke-free material icon"
+            prefix: "icon-smoke-free"
+
+
+    "smoking-rooms":
+            body: "<i class='material-icons' >smoking_rooms</i>"
+            description: "type smoking-rooms material icon"
+            prefix: "icon-smoking-rooms"
+
+
+    "sms":
+            body: "<i class='material-icons' >sms</i>"
+            description: "type sms material icon"
+            prefix: "icon-sms"
+
+
+    "sms-failed":
+            body: "<i class='material-icons' >sms_failed</i>"
+            description: "type sms-failed material icon"
+            prefix: "icon-sms-failed"
+
+
+    "snooze":
+            body: "<i class='material-icons' >snooze</i>"
+            description: "type snooze material icon"
+            prefix: "icon-snooze"
+
+
+    "sort":
+            body: "<i class='material-icons' >sort</i>"
+            description: "type sort material icon"
+            prefix: "icon-sort"
+
+
+    "sort-by-alpha":
+            body: "<i class='material-icons' >sort_by_alpha</i>"
+            description: "type sort-by-alpha material icon"
+            prefix: "icon-sort-by-alpha"
+
+
+    "spa":
+            body: "<i class='material-icons' >spa</i>"
+            description: "type spa material icon"
+            prefix: "icon-spa"
+
+
+    "space-bar":
+            body: "<i class='material-icons' >space_bar</i>"
+            description: "type space-bar material icon"
+            prefix: "icon-space-bar"
+
+
+    "speaker":
+            body: "<i class='material-icons' >speaker</i>"
+            description: "type speaker material icon"
+            prefix: "icon-speaker"
+
+
+    "speaker-group":
+            body: "<i class='material-icons' >speaker_group</i>"
+            description: "type speaker-group material icon"
+            prefix: "icon-speaker-group"
+
+
+    "speaker-notes":
+            body: "<i class='material-icons' >speaker_notes</i>"
+            description: "type speaker-notes material icon"
+            prefix: "icon-speaker-notes"
+
+
+    "speaker-notes-off":
+            body: "<i class='material-icons' >speaker_notes_off</i>"
+            description: "type speaker-notes-off material icon"
+            prefix: "icon-speaker-notes-off"
+
+
+    "speaker-phone":
+            body: "<i class='material-icons' >speaker_phone</i>"
+            description: "type speaker-phone material icon"
+            prefix: "icon-speaker-phone"
+
+
+    "spellcheck":
+            body: "<i class='material-icons' >spellcheck</i>"
+            description: "type spellcheck material icon"
+            prefix: "icon-spellcheck"
+
+
+    "star":
+            body: "<i class='material-icons' >star</i>"
+            description: "type star material icon"
+            prefix: "icon-star"
+
+
+    "star-border":
+            body: "<i class='material-icons' >star_border</i>"
+            description: "type star-border material icon"
+            prefix: "icon-star-border"
+
+
+    "star-half":
+            body: "<i class='material-icons' >star_half</i>"
+            description: "type star-half material icon"
+            prefix: "icon-star-half"
+
+
+    "stars":
+            body: "<i class='material-icons' >stars</i>"
+            description: "type stars material icon"
+            prefix: "icon-stars"
+
+
+    "stay-current-landscape":
+            body: "<i class='material-icons' >stay_current_landscape</i>"
+            description: "type stay-current-landscape material icon"
+            prefix: "icon-stay-current-landscape"
+
+
+    "stay-current-portrait":
+            body: "<i class='material-icons' >stay_current_portrait</i>"
+            description: "type stay-current-portrait material icon"
+            prefix: "icon-stay-current-portrait"
+
+
+    "stay-primary-landscape":
+            body: "<i class='material-icons' >stay_primary_landscape</i>"
+            description: "type stay-primary-landscape material icon"
+            prefix: "icon-stay-primary-landscape"
+
+
+    "stay-primary-portrait":
+            body: "<i class='material-icons' >stay_primary_portrait</i>"
+            description: "type stay-primary-portrait material icon"
+            prefix: "icon-stay-primary-portrait"
+
+
+    "stop":
+            body: "<i class='material-icons' >stop</i>"
+            description: "type stop material icon"
+            prefix: "icon-stop"
+
+
+    "stop-screen-share":
+            body: "<i class='material-icons' >stop_screen_share</i>"
+            description: "type stop-screen-share material icon"
+            prefix: "icon-stop-screen-share"
+
+
+    "storage":
+            body: "<i class='material-icons' >storage</i>"
+            description: "type storage material icon"
+            prefix: "icon-storage"
+
+
+    "store":
+            body: "<i class='material-icons' >store</i>"
+            description: "type store material icon"
+            prefix: "icon-store"
+
+
+    "store-mall-directory":
+            body: "<i class='material-icons' >store_mall_directory</i>"
+            description: "type store-mall-directory material icon"
+            prefix: "icon-store-mall-directory"
+
+
+    "straighten":
+            body: "<i class='material-icons' >straighten</i>"
+            description: "type straighten material icon"
+            prefix: "icon-straighten"
+
+
+    "streetview":
+            body: "<i class='material-icons' >streetview</i>"
+            description: "type streetview material icon"
+            prefix: "icon-streetview"
+
+
+    "strikethrough-s":
+            body: "<i class='material-icons' >strikethrough_s</i>"
+            description: "type strikethrough-s material icon"
+            prefix: "icon-strikethrough-s"
+
+
+    "style":
+            body: "<i class='material-icons' >style</i>"
+            description: "type style material icon"
+            prefix: "icon-style"
+
+
+    "subdirectory-arrow-left":
+            body: "<i class='material-icons' >subdirectory_arrow_left</i>"
+            description: "type subdirectory-arrow-left material icon"
+            prefix: "icon-subdirectory-arrow-left"
+
+
+    "subdirectory-arrow-right":
+            body: "<i class='material-icons' >subdirectory_arrow_right</i>"
+            description: "type subdirectory-arrow-right material icon"
+            prefix: "icon-subdirectory-arrow-right"
+
+
+    "subject":
+            body: "<i class='material-icons' >subject</i>"
+            description: "type subject material icon"
+            prefix: "icon-subject"
+
+
+    "subscriptions":
+            body: "<i class='material-icons' >subscriptions</i>"
+            description: "type subscriptions material icon"
+            prefix: "icon-subscriptions"
+
+
+    "subtitles":
+            body: "<i class='material-icons' >subtitles</i>"
+            description: "type subtitles material icon"
+            prefix: "icon-subtitles"
+
+
+    "subway":
+            body: "<i class='material-icons' >subway</i>"
+            description: "type subway material icon"
+            prefix: "icon-subway"
+
+
+    "supervisor-account":
+            body: "<i class='material-icons' >supervisor_account</i>"
+            description: "type supervisor-account material icon"
+            prefix: "icon-supervisor-account"
+
+
+    "surround-sound":
+            body: "<i class='material-icons' >surround_sound</i>"
+            description: "type surround-sound material icon"
+            prefix: "icon-surround-sound"
+
+
+    "swap-calls":
+            body: "<i class='material-icons' >swap_calls</i>"
+            description: "type swap-calls material icon"
+            prefix: "icon-swap-calls"
+
+
+    "swap-horiz":
+            body: "<i class='material-icons' >swap_horiz</i>"
+            description: "type swap-horiz material icon"
+            prefix: "icon-swap-horiz"
+
+
+    "swap-vert":
+            body: "<i class='material-icons' >swap_vert</i>"
+            description: "type swap-vert material icon"
+            prefix: "icon-swap-vert"
+
+
+    "swap-vertical-circle":
+            body: "<i class='material-icons' >swap_vertical_circle</i>"
+            description: "type swap-vertical-circle material icon"
+            prefix: "icon-swap-vertical-circle"
+
+
+    "switch-camera":
+            body: "<i class='material-icons' >switch_camera</i>"
+            description: "type switch-camera material icon"
+            prefix: "icon-switch-camera"
+
+
+    "switch-video":
+            body: "<i class='material-icons' >switch_video</i>"
+            description: "type switch-video material icon"
+            prefix: "icon-switch-video"
+
+
+    "sync":
+            body: "<i class='material-icons' >sync</i>"
+            description: "type sync material icon"
+            prefix: "icon-sync"
+
+
+    "sync-disabled":
+            body: "<i class='material-icons' >sync_disabled</i>"
+            description: "type sync-disabled material icon"
+            prefix: "icon-sync-disabled"
+
+
+    "sync-problem":
+            body: "<i class='material-icons' >sync_problem</i>"
+            description: "type sync-problem material icon"
+            prefix: "icon-sync-problem"
+
+
+    "system-update":
+            body: "<i class='material-icons' >system_update</i>"
+            description: "type system-update material icon"
+            prefix: "icon-system-update"
+
+
+    "system-update-alt":
+            body: "<i class='material-icons' >system_update_alt</i>"
+            description: "type system-update-alt material icon"
+            prefix: "icon-system-update-alt"
+
+
+    "tab":
+            body: "<i class='material-icons' >tab</i>"
+            description: "type tab material icon"
+            prefix: "icon-tab"
+
+
+    "tab-unselected":
+            body: "<i class='material-icons' >tab_unselected</i>"
+            description: "type tab-unselected material icon"
+            prefix: "icon-tab-unselected"
+
+
+    "tablet":
+            body: "<i class='material-icons' >tablet</i>"
+            description: "type tablet material icon"
+            prefix: "icon-tablet"
+
+
+    "tablet-android":
+            body: "<i class='material-icons' >tablet_android</i>"
+            description: "type tablet-android material icon"
+            prefix: "icon-tablet-android"
+
+
+    "tablet-mac":
+            body: "<i class='material-icons' >tablet_mac</i>"
+            description: "type tablet-mac material icon"
+            prefix: "icon-tablet-mac"
+
+
+    "tag-faces":
+            body: "<i class='material-icons' >tag_faces</i>"
+            description: "type tag-faces material icon"
+            prefix: "icon-tag-faces"
+
+
+    "tap-and-play":
+            body: "<i class='material-icons' >tap_and_play</i>"
+            description: "type tap-and-play material icon"
+            prefix: "icon-tap-and-play"
+
+
+    "terrain":
+            body: "<i class='material-icons' >terrain</i>"
+            description: "type terrain material icon"
+            prefix: "icon-terrain"
+
+
+    "text-fields":
+            body: "<i class='material-icons' >text_fields</i>"
+            description: "type text-fields material icon"
+            prefix: "icon-text-fields"
+
+
+    "text-format":
+            body: "<i class='material-icons' >text_format</i>"
+            description: "type text-format material icon"
+            prefix: "icon-text-format"
+
+
+    "textsms":
+            body: "<i class='material-icons' >textsms</i>"
+            description: "type textsms material icon"
+            prefix: "icon-textsms"
+
+
+    "texture":
+            body: "<i class='material-icons' >texture</i>"
+            description: "type texture material icon"
+            prefix: "icon-texture"
+
+
+    "theaters":
+            body: "<i class='material-icons' >theaters</i>"
+            description: "type theaters material icon"
+            prefix: "icon-theaters"
+
+
+    "thumb-down":
+            body: "<i class='material-icons' >thumb_down</i>"
+            description: "type thumb-down material icon"
+            prefix: "icon-thumb-down"
+
+
+    "thumb-up":
+            body: "<i class='material-icons' >thumb_up</i>"
+            description: "type thumb-up material icon"
+            prefix: "icon-thumb-up"
+
+
+    "thumbs-up-down":
+            body: "<i class='material-icons' >thumbs_up_down</i>"
+            description: "type thumbs-up-down material icon"
+            prefix: "icon-thumbs-up-down"
+
+
+    "time-to-leave":
+            body: "<i class='material-icons' >time_to_leave</i>"
+            description: "type time-to-leave material icon"
+            prefix: "icon-time-to-leave"
+
+
+    "timelapse":
+            body: "<i class='material-icons' >timelapse</i>"
+            description: "type timelapse material icon"
+            prefix: "icon-timelapse"
+
+
+    "timeline":
+            body: "<i class='material-icons' >timeline</i>"
+            description: "type timeline material icon"
+            prefix: "icon-timeline"
+
+
+    "timer":
+            body: "<i class='material-icons' >timer</i>"
+            description: "type timer material icon"
+            prefix: "icon-timer"
+
+
+    "timer-10":
+            body: "<i class='material-icons' >timer_10</i>"
+            description: "type timer-10 material icon"
+            prefix: "icon-timer-10"
+
+
+    "timer-3":
+            body: "<i class='material-icons' >timer_3</i>"
+            description: "type timer-3 material icon"
+            prefix: "icon-timer-3"
+
+
+    "timer-off":
+            body: "<i class='material-icons' >timer_off</i>"
+            description: "type timer-off material icon"
+            prefix: "icon-timer-off"
+
+
+    "title":
+            body: "<i class='material-icons' >title</i>"
+            description: "type title material icon"
+            prefix: "icon-title"
+
+
+    "toc":
+            body: "<i class='material-icons' >toc</i>"
+            description: "type toc material icon"
+            prefix: "icon-toc"
+
+
+    "today":
+            body: "<i class='material-icons' >today</i>"
+            description: "type today material icon"
+            prefix: "icon-today"
+
+
+    "toll":
+            body: "<i class='material-icons' >toll</i>"
+            description: "type toll material icon"
+            prefix: "icon-toll"
+
+
+    "tonality":
+            body: "<i class='material-icons' >tonality</i>"
+            description: "type tonality material icon"
+            prefix: "icon-tonality"
+
+
+    "touch-app":
+            body: "<i class='material-icons' >touch_app</i>"
+            description: "type touch-app material icon"
+            prefix: "icon-touch-app"
+
+
+    "toys":
+            body: "<i class='material-icons' >toys</i>"
+            description: "type toys material icon"
+            prefix: "icon-toys"
+
+
+    "track-changes":
+            body: "<i class='material-icons' >track_changes</i>"
+            description: "type track-changes material icon"
+            prefix: "icon-track-changes"
+
+
+    "traffic":
+            body: "<i class='material-icons' >traffic</i>"
+            description: "type traffic material icon"
+            prefix: "icon-traffic"
+
+
+    "train":
+            body: "<i class='material-icons' >train</i>"
+            description: "type train material icon"
+            prefix: "icon-train"
+
+
+    "tram":
+            body: "<i class='material-icons' >tram</i>"
+            description: "type tram material icon"
+            prefix: "icon-tram"
+
+
+    "transfer-within-a-station":
+            body: "<i class='material-icons' >transfer_within_a_station</i>"
+            description: "type transfer-within-a-station material icon"
+            prefix: "icon-transfer-within-a-station"
+
+
+    "transform":
+            body: "<i class='material-icons' >transform</i>"
+            description: "type transform material icon"
+            prefix: "icon-transform"
+
+
+    "translate":
+            body: "<i class='material-icons' >translate</i>"
+            description: "type translate material icon"
+            prefix: "icon-translate"
+
+
+    "trending-down":
+            body: "<i class='material-icons' >trending_down</i>"
+            description: "type trending-down material icon"
+            prefix: "icon-trending-down"
+
+
+    "trending-flat":
+            body: "<i class='material-icons' >trending_flat</i>"
+            description: "type trending-flat material icon"
+            prefix: "icon-trending-flat"
+
+
+    "trending-up":
+            body: "<i class='material-icons' >trending_up</i>"
+            description: "type trending-up material icon"
+            prefix: "icon-trending-up"
+
+
+    "tune":
+            body: "<i class='material-icons' >tune</i>"
+            description: "type tune material icon"
+            prefix: "icon-tune"
+
+
+    "turned-in":
+            body: "<i class='material-icons' >turned_in</i>"
+            description: "type turned-in material icon"
+            prefix: "icon-turned-in"
+
+
+    "turned-in-not":
+            body: "<i class='material-icons' >turned_in_not</i>"
+            description: "type turned-in-not material icon"
+            prefix: "icon-turned-in-not"
+
+
+    "tv":
+            body: "<i class='material-icons' >tv</i>"
+            description: "type tv material icon"
+            prefix: "icon-tv"
+
+
+    "unarchive":
+            body: "<i class='material-icons' >unarchive</i>"
+            description: "type unarchive material icon"
+            prefix: "icon-unarchive"
+
+
+    "undo":
+            body: "<i class='material-icons' >undo</i>"
+            description: "type undo material icon"
+            prefix: "icon-undo"
+
+
+    "unfold-less":
+            body: "<i class='material-icons' >unfold_less</i>"
+            description: "type unfold-less material icon"
+            prefix: "icon-unfold-less"
+
+
+    "unfold-more":
+            body: "<i class='material-icons' >unfold_more</i>"
+            description: "type unfold-more material icon"
+            prefix: "icon-unfold-more"
+
+
+    "update":
+            body: "<i class='material-icons' >update</i>"
+            description: "type update material icon"
+            prefix: "icon-update"
+
+
+    "usb":
+            body: "<i class='material-icons' >usb</i>"
+            description: "type usb material icon"
+            prefix: "icon-usb"
+
+
+    "verified-user":
+            body: "<i class='material-icons' >verified_user</i>"
+            description: "type verified-user material icon"
+            prefix: "icon-verified-user"
+
+
+    "vertical-align-bottom":
+            body: "<i class='material-icons' >vertical_align_bottom</i>"
+            description: "type vertical-align-bottom material icon"
+            prefix: "icon-vertical-align-bottom"
+
+
+    "vertical-align-center":
+            body: "<i class='material-icons' >vertical_align_center</i>"
+            description: "type vertical-align-center material icon"
+            prefix: "icon-vertical-align-center"
+
+
+    "vertical-align-top":
+            body: "<i class='material-icons' >vertical_align_top</i>"
+            description: "type vertical-align-top material icon"
+            prefix: "icon-vertical-align-top"
+
+
+    "vibration":
+            body: "<i class='material-icons' >vibration</i>"
+            description: "type vibration material icon"
+            prefix: "icon-vibration"
+
+
+    "video-call":
+            body: "<i class='material-icons' >video_call</i>"
+            description: "type video-call material icon"
+            prefix: "icon-video-call"
+
+
+    "video-label":
+            body: "<i class='material-icons' >video_label</i>"
+            description: "type video-label material icon"
+            prefix: "icon-video-label"
+
+
+    "video-library":
+            body: "<i class='material-icons' >video_library</i>"
+            description: "type video-library material icon"
+            prefix: "icon-video-library"
+
+
+    "videocam":
+            body: "<i class='material-icons' >videocam</i>"
+            description: "type videocam material icon"
+            prefix: "icon-videocam"
+
+
+    "videocam-off":
+            body: "<i class='material-icons' >videocam_off</i>"
+            description: "type videocam-off material icon"
+            prefix: "icon-videocam-off"
+
+
+    "videogame-asset":
+            body: "<i class='material-icons' >videogame_asset</i>"
+            description: "type videogame-asset material icon"
+            prefix: "icon-videogame-asset"
+
+
+    "view-agenda":
+            body: "<i class='material-icons' >view_agenda</i>"
+            description: "type view-agenda material icon"
+            prefix: "icon-view-agenda"
+
+
+    "view-array":
+            body: "<i class='material-icons' >view_array</i>"
+            description: "type view-array material icon"
+            prefix: "icon-view-array"
+
+
+    "view-carousel":
+            body: "<i class='material-icons' >view_carousel</i>"
+            description: "type view-carousel material icon"
+            prefix: "icon-view-carousel"
+
+
+    "view-column":
+            body: "<i class='material-icons' >view_column</i>"
+            description: "type view-column material icon"
+            prefix: "icon-view-column"
+
+
+    "view-comfy":
+            body: "<i class='material-icons' >view_comfy</i>"
+            description: "type view-comfy material icon"
+            prefix: "icon-view-comfy"
+
+
+    "view-compact":
+            body: "<i class='material-icons' >view_compact</i>"
+            description: "type view-compact material icon"
+            prefix: "icon-view-compact"
+
+
+    "view-day":
+            body: "<i class='material-icons' >view_day</i>"
+            description: "type view-day material icon"
+            prefix: "icon-view-day"
+
+
+    "view-headline":
+            body: "<i class='material-icons' >view_headline</i>"
+            description: "type view-headline material icon"
+            prefix: "icon-view-headline"
+
+
+    "view-list":
+            body: "<i class='material-icons' >view_list</i>"
+            description: "type view-list material icon"
+            prefix: "icon-view-list"
+
+
+    "view-module":
+            body: "<i class='material-icons' >view_module</i>"
+            description: "type view-module material icon"
+            prefix: "icon-view-module"
+
+
+    "view-quilt":
+            body: "<i class='material-icons' >view_quilt</i>"
+            description: "type view-quilt material icon"
+            prefix: "icon-view-quilt"
+
+
+    "view-stream":
+            body: "<i class='material-icons' >view_stream</i>"
+            description: "type view-stream material icon"
+            prefix: "icon-view-stream"
+
+
+    "view-week":
+            body: "<i class='material-icons' >view_week</i>"
+            description: "type view-week material icon"
+            prefix: "icon-view-week"
+
+
+    "vignette":
+            body: "<i class='material-icons' >vignette</i>"
+            description: "type vignette material icon"
+            prefix: "icon-vignette"
+
+
+    "visibility":
+            body: "<i class='material-icons' >visibility</i>"
+            description: "type visibility material icon"
+            prefix: "icon-visibility"
+
+
+    "visibility-off":
+            body: "<i class='material-icons' >visibility_off</i>"
+            description: "type visibility-off material icon"
+            prefix: "icon-visibility-off"
+
+
+    "voice-chat":
+            body: "<i class='material-icons' >voice_chat</i>"
+            description: "type voice-chat material icon"
+            prefix: "icon-voice-chat"
+
+
+    "voicemail":
+            body: "<i class='material-icons' >voicemail</i>"
+            description: "type voicemail material icon"
+            prefix: "icon-voicemail"
+
+
+    "volume-down":
+            body: "<i class='material-icons' >volume_down</i>"
+            description: "type volume-down material icon"
+            prefix: "icon-volume-down"
+
+
+    "volume-mute":
+            body: "<i class='material-icons' >volume_mute</i>"
+            description: "type volume-mute material icon"
+            prefix: "icon-volume-mute"
+
+
+    "volume-off":
+            body: "<i class='material-icons' >volume_off</i>"
+            description: "type volume-off material icon"
+            prefix: "icon-volume-off"
+
+
+    "volume-up":
+            body: "<i class='material-icons' >volume_up</i>"
+            description: "type volume-up material icon"
+            prefix: "icon-volume-up"
+
+
+    "vpn-key":
+            body: "<i class='material-icons' >vpn_key</i>"
+            description: "type vpn-key material icon"
+            prefix: "icon-vpn-key"
+
+
+    "vpn-lock":
+            body: "<i class='material-icons' >vpn_lock</i>"
+            description: "type vpn-lock material icon"
+            prefix: "icon-vpn-lock"
+
+
+    "wallpaper":
+            body: "<i class='material-icons' >wallpaper</i>"
+            description: "type wallpaper material icon"
+            prefix: "icon-wallpaper"
+
+
+    "warning":
+            body: "<i class='material-icons' >warning</i>"
+            description: "type warning material icon"
+            prefix: "icon-warning"
+
+
+    "watch":
+            body: "<i class='material-icons' >watch</i>"
+            description: "type watch material icon"
+            prefix: "icon-watch"
+
+
+    "watch-later":
+            body: "<i class='material-icons' >watch_later</i>"
+            description: "type watch-later material icon"
+            prefix: "icon-watch-later"
+
+
+    "wb-auto":
+            body: "<i class='material-icons' >wb_auto</i>"
+            description: "type wb-auto material icon"
+            prefix: "icon-wb-auto"
+
+    "import font":
+            body: """
+            <!-- Material Design icon font -->
+            <link href='https://fonts.googleapis.com/icon?family=Material+Icons' rel='stylesheet'>
+            <link href='https://rawgit.com/kimjs3550/Material-Icons-Autocomplete-Resources/master/icon-style.css' rel='stylesheet'>
+            """
+            description: "import font to your HTML file"
+            prefix: "icon-import"
