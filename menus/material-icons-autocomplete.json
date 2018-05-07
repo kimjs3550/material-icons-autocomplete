@@ -1,22 +1,14 @@
 {
-  "context-menu": {
-    "atom-text-editor": [
-      {
-        "label": "Toggle material-icons-autocomplete",
-        "command": "material-icons-autocomplete:toggle"
-      }
-    ]
-  },
   "menu": [
     {
       "label": "Packages",
       "submenu": [
         {
-          "label": "material-icons-autocomplete",
+          "label": "Material Icons",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "material-icons-autocomplete:toggle"
+              "label": "Preview selected icon",
+              "command": "material-icons-autocomplete:preview"
             }
           ]
         }
