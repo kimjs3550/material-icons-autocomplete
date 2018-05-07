@@ -1,4 +1,4 @@
-".text.html.basic .meta.tag.inline.i.html .meta.attribute-with-value.class.html .string.quoted.single.html":
+".text.html .meta.tag.inline.i.html .meta.attribute-with-value.class.html .string.quoted.single.html, .string.quioted.double.html":
   #icon size class
     "icon size 18px":
             body: "md-18"
@@ -31,4 +31,3 @@
             body: "md-inactive"
             prefix: "md-inactive"
             description: "you have to use this class with md-light or md-dark"
-              

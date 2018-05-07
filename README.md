@@ -20,9 +20,9 @@ From Google  Material Design Icons Library
   ```
   apm install material-icons-autocomplete
   ```
-2. This snippet only works on the HTML(HyperText Markup Language) file. Open your HTML, and type
+2. This snippet works on the HTML code including php or jsp, etc. Open your file, and type
     ```
-    icon-import
+    mdi-import
     ```
 then the package will automatically create following code:
     ```
@@ -31,12 +31,21 @@ then the package will automatically create following code:
     <link href='http://rawgit.com/kimjs3550/material-icons-autocomplete/master/icon-style.css' rel='stylesheet'>
     ```    
 
-3. Type ```icon-``` then the suggestions will appear.
+3. Type ```mdi-``` then the suggestions will appear.
 4. use Tab key to autocomplete the icon which you selected.
-5. To find the icon you want, go to the [Material Icon Library](https://material.io/icons). You can use all the icons listed there.
+5. You can use preview function by selecting icon tag and pressing ```ctrl-alt-p```.
+6. To find the icon you want, go to the [Material Icon Library](https://material.io/icons). You can use all the icons listed there.
 
 ---
 ## ChangeLog
+* version 1
+    * ```1.0.0```
+        * ```update-date``` 2018-05-07
+        * ```updated```
+            * now snippets work on html code in php or jsp file
+            * ```mdi-``` identifier
+            * preview function
+
 * version 0
     * ```0.1.0``` Autocomplete support for Material icons
         * ```Update-date``` 2018-05-04
@@ -52,5 +61,4 @@ then the package will automatically create following code:
 
 ---
 ## What's next?
-* use ```mdi(Material Design Icon)``` keyword instead of ```icon``` because ```icon``` identifier is too common
-* maybe a little panel which shows the preview of icons you made
+* a little panel which shows the preview of icons you made
