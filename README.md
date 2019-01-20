@@ -1,3 +1,5 @@
+This package is unmaintained and unstable.
+Use this package instead: https://atom.io/packages/material-icons-snippets
 # Material Icons Autocomplete
 
 ---
