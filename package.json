@@ -1,7 +1,7 @@
 {
   "name": "material-icons-autocomplete",
   "main": "./lib/material-icons-autocomplete",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "[DEPRECATED] Snippet Package for Google's Material Icons",
   "keywords": [],
   "activationCommands": {
